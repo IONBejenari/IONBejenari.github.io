@@ -1,0 +1,1132 @@
+Uri: http://www.baita1697.com/
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/favicon.ico
+File Name: C:\Downloaded Web Sites\www.baita1697.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://fonts.googleapis.com/css?family=PT+Sans:400,700
+File Name: C:\Downloaded Web Sites\www.baita1697.com\css.css
+Content Type: text/css
+
+Uri: http://www.baita1697.com/css/style20200210.css
+File Name: C:\Downloaded Web Sites\www.baita1697.com\css\style20200210.css
+Content Type: text/css
+
+Uri: http://www.baita1697.com/?p=the-property
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-1.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=the-area
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-2.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=what-to-do
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-3.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=directions
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-4.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=services
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-5.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-6.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=prices
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-7.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=retreats
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-8.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=press
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-9.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=floor-plan
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-10.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=guest-book
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-11.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=links
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-12.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=contact-us
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-13.htm
+Content Type: text/html
+
+Uri: https://twitter.com/
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-15.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/baita1697/
+File Name: C:\Downloaded Web Sites\www.baita1697.com\baita1697\index.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=video
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-16.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/js/jquery.1.6.4.min.js
+File Name: C:\Downloaded Web Sites\www.baita1697.com\js\jquery.1.6.4.min.js
+Content Type: application/javascript
+
+Uri: http://www.baita1697.com/js/jquery.tinyscrollbar.min.js
+File Name: C:\Downloaded Web Sites\www.baita1697.com\js\jquery.tinyscrollbar.min.js
+Content Type: application/javascript
+
+Uri: http://www.baita1697.com/js/colorbox/jquery.colorbox.js
+File Name: C:\Downloaded Web Sites\www.baita1697.com\js\colorbox\jquery.colorbox.js
+Content Type: application/javascript
+
+Uri: http://www.baita1697.com/images/baita1697_logo.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\baita1697_logo.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/lucie_logo.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\lucie_logo.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/menu.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\menu.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/menu-retreats.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\menu-retreats.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/footer.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\footer.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/facebook.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\facebook.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/instagram.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\instagram.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/twitter.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\twitter.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/baita1697_landing.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\baita1697_landing.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/title/title_property.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\title\title_property.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/title/title_whattodo.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\title\title_whattodo.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/title/title_thearea.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\title\title_thearea.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/title/title_retreats.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\title\title_retreats.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/title/title_directions.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\title\title_directions.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/title/title_services.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\title\title_services.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/title/title_gallery.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\title\title_gallery.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/title/title_prices.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\title\title_prices.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/title/title_bookingform.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\title\title_bookingform.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/title/title_press.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\title\title_press.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/title/title_floor_plan.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\title\title_floor_plan.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/title/title_guestbook.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\title\title_guestbook.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/title/title_links.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\title\title_links.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/title/title_contactus.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\title\title_contactus.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/js/img/left.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\js\img\left.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/js/img/right.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\js\img\right.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/js/img/leftoff.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\js\img\leftoff.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/js/img/rightoff.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\js\img\rightoff.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/js/img/pagination.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\js\img\pagination.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/button_winter_summer.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\button_winter_summer.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/button_ground.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\button_ground.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/button_first.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\button_first.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/button_second.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\button_second.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/button_book.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\button_book.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/button_booked.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\button_booked.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/button_map.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\button_map.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/button_slideshow.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\button_slideshow.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/button_video.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\button_video.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/button_download.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\button_download.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/button_largemap.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\button_largemap.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/blank.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\blank.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_g_1.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_g_1.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_g_2.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_g_2.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_g_3.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_g_3.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_g_4.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_g_4.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_g_5.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_g_5.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_1_1.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_1_1.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_1_2.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_1_2.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_1_3.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_1_3.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_1_4.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_1_4.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_1_5.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_1_5.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_1_6.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_1_6.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_1_7.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_1_7.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_1_8.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_1_8.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_2_1.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_2_1.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_2_2.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_2_2.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_2_3.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_2_3.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_2_4.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_2_4.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_2_5.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_2_5.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_2_6.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_2_6.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/images/floorplan/floor_plan_2_7.png
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\floorplan\floor_plan_2_7.png
+Content Type: image/png
+
+Uri: http://www.baita1697.com/photos/por.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\por.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/js/slides.min.jquery.js
+File Name: C:\Downloaded Web Sites\www.baita1697.com\js\slides.min.jquery.js
+Content Type: application/javascript
+
+Uri: http://www.baita1697.com/photos/area1/clot_e_morefreddo.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\area1\clot_e_morefreddo.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/area1/raggio_di_sole.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\area1\raggio_di_sole.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/?p=what-to-do&id=summer
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-17.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=what-to-do&id=winter
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-18.htm
+Content Type: text/html
+
+Uri: http://www.google.co.uk/imgres?imgurl=http://www.myslopes.com/images/en/piste-map-via-lattea-a342.jpg&imgrefurl=http://www.myslopes.com/italy/snow-report-via-lattea.php&h=557&w=976&sz=191&tbnid=aZtAPhKn28XhxM:&tbnh=70&tbnw=122&prev=/search%3Fq%3Dvia%2Blattea%2Bpiste%2Bmap%26tbm%3Disch%26tbo%3Du&zoom=1&q=via+lattea+piste+map&usg=__fKQSh-3iUZf3EVZxvvxKmLlXL0E=&docid=LR0gCPtjDMr7vM&hl=en&sa=X&ei=ebvjT6r1IeueiAeA5tyFCw&sqi=2&ved=0CGoQ9QEwAg&dur=612
+File Name: C:\Downloaded Web Sites\www.baita1697.com\imgres.html
+Content Type: text/html
+
+Uri: http://www.baita1697.com/photos/winter1/winter1.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\winter1\winter1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/winter1/b-24wsd.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\winter1\b-24wsd.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/?p=directions&id=1
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-19.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/files/directions/Baita1697_TurinCaselle_1.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\directions\Baita1697_TurinCaselle_1.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/?p=directions&id=2
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-20.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/files/directions/Baita1697_TurinCaselle_2.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\directions\Baita1697_TurinCaselle_2.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/?p=directions&id=3
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-21.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/files/directions/Baita1697_MilanMalpensa.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\directions\Baita1697_MilanMalpensa.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/?p=directions&id=4
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-22.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/files/directions/Baita1697_MilanLinate.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\directions\Baita1697_MilanLinate.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/images/directions/baita_1697_map1.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\directions\baita_1697_map1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/services1/b-24w.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\services1\b-24w.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/?p=gallery&id=slideshow
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-23.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=159
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-24.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=135
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-25.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=157
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-26.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=177
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-27.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=160
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-28.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=162
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-29.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=163
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-30.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=149
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-31.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=174
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-32.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=188
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-33.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=161
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-34.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=170
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-35.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=171
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-36.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=173
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-37.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=169
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-38.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=139
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-39.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=167
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-40.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=168
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-41.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=134
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-42.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=179
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-43.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=178
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-44.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=140
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-45.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=165
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-46.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=166
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-47.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=164
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-48.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=129
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-49.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=158
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-50.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=175
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-51.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=130
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-52.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=176
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-53.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=131
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-54.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=156
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-55.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=183
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-56.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=184
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-57.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=185
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-58.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=gallery&id=186
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-59.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0005.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0005.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/244368_113483032073900_113476025407934_130451_1864008_o.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\244368_113483032073900_113476025407934_130451_1864008_o.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0002.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0002.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0046.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0046.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0007.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0007.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0009.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0009.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0015.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0015.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/392329_205538689535000_113476025407934_428556_2136216064_n.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\392329_205538689535000_113476025407934_428556_2136216064_n.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0029.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0029.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/DSC_0188.JPG.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\DSC_0188.JPG.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0008.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0008.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0025.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0025.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0026.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0026.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0027.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0027.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0024.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0024.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/251634_113482125407324_113476025407934_130441_7321631_n.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\251634_113482125407324_113476025407934_130441_7321631_n.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0021.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0021.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0022.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0022.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/244179_113481722074031_113476025407934_130437_953237_o.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\244179_113481722074031_113476025407934_130437_953237_o.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/DSC_0137.JPG.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\DSC_0137.JPG.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0023.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0023.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/256121_113482662073937_113476025407934_130447_680125_o.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\256121_113482662073937_113476025407934_130447_680125_o.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0018.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0018.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0020.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0020.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0017.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0017.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/240330_113483148740555_113476025407934_130452_2909030_o.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\240330_113483148740555_113476025407934_130452_2909030_o.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0003.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0003.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0034.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0034.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/240458_113481925407344_113476025407934_130439_4499008_o.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\240458_113481925407344_113476025407934_130439_4499008_o.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0035.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0035.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/242067_113482032074000_113476025407934_130440_3638800_o.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\242067_113482032074000_113476025407934_130440_3638800_o.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/Casa_Lucie_McCullough_a_Pinerolo_Torino_0001.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\Casa_Lucie_McCullough_a_Pinerolo_Torino_0001.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/DSC_0175.JPG.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\DSC_0175.JPG.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/DSC_0221.JPG.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\DSC_0221.JPG.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/pragelato_golf_course.JPG.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\pragelato_golf_course.JPG.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/thumb/the_val_troncea_national_park_where_the_2006_winter_olympic_cross_country_took_place.JPG.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\thumb\the_val_troncea_national_park_where_the_2006_winter_olympic_cross_country_took_place.JPG.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/baita1697_prices.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\baita1697_prices.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/retreats1/baita-1697.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\retreats1\baita-1697.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/files/press/13-2016 Elle Italia Gennaio 2016.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\press\13-2016 Elle Italia Gennaio 2016.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/files/press/12-CN traveller snow report.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\press\12-CN traveller snow report.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/files/press/11-Best Ski Chalets Ultratravel Nov 2015.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\press\11-Best Ski Chalets Ultratravel Nov 2015.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/files/press/10-2015 nov Saturday telegraph.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\press\10-2015 nov Saturday telegraph.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/files/press/09-2015 jan CN TRAVELLER UK_ JAN 2015.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\press\09-2015 jan CN TRAVELLER UK_ JAN 2015.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/files/press/08-IO Donna 1st Nov 2014.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\press\08-IO Donna 1st Nov 2014.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/files/press/07-Saturday times Oct 25th 2014.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\press\07-Saturday times Oct 25th 2014.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/files/press/06-2014 FEB IRISH TIMES.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\press\06-2014 FEB IRISH TIMES.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/files/press/05-Chic ski chalets away from the crowds - FT com.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\press\05-Chic ski chalets away from the crowds - FT com.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/files/press/04-stylish life of skiing.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\press\04-stylish life of skiing.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/files/press/ad_december_2013-small.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\press\ad_december_2013-small.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/files/press/baita_nsj2ks.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\press\baita_nsj2ks.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/files/press/STYLEMagazine062012.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\press\STYLEMagazine062012.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/files/press/baita_baccarat.pdf
+File Name: C:\Downloaded Web Sites\www.baita1697.com\files\press\baita_baccarat.pdf
+Content Type: application/pdf
+
+Uri: http://www.baita1697.com/images/baita-press.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\baita-press.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/?p=floor-plan&id=second
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-60.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=floor-plan&id=first
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-61.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/?p=floor-plan&id=ground
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-62.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/js/jquery.hoverIntent.minified.js
+File Name: C:\Downloaded Web Sites\www.baita1697.com\js\jquery.hoverIntent.minified.js
+Content Type: application/javascript
+
+Uri: http://www.baita1697.com/images/baita1697_floor_plan_g.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\baita1697_floor_plan_g.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/guestbook1/DSC_0287.JPG.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\guestbook1\DSC_0287.JPG.jpg
+Content Type: image/jpeg
+
+Uri: http://www.britishairways.com/travel/home/public/en_gb
+File Name: C:\Downloaded Web Sites\www.baita1697.com\travel\home\public\en_gb.html
+Content Type: text/html
+
+Uri: http://www.scuolascivialattea.it/
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-64.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/photos/links1/baita_1697_photo1.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\links1\baita_1697_photo1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/index.php
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index.php.html
+Content Type: text/html
+
+Uri: http://www.baita1697.com/js/jquery.validate.js
+File Name: C:\Downloaded Web Sites\www.baita1697.com\js\jquery.validate.js
+Content Type: application/javascript
+
+Uri: http://www.baita1697.com/process/validate_lang/messages.js
+File Name: C:\Downloaded Web Sites\www.baita1697.com\process\validate_lang\messages.js
+Content Type: application/javascript
+
+Uri: http://www.baita1697.com/process/vcode/captcha_contact.js
+File Name: C:\Downloaded Web Sites\www.baita1697.com\process\vcode\captcha_contact.js
+Content Type: application/javascript
+
+Uri: http://www.baita1697.com/photos/contact1/b-24wsd9.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\contact1\b-24wsd9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/process/vcode/images/image.php
+File Name: C:\Downloaded Web Sites\www.baita1697.com\process\vcode\images\image.php.html
+Content Type: text/html
+
+Uri: http://www.baita1697.com/process/vcode/images/reload.gif
+File Name: C:\Downloaded Web Sites\www.baita1697.com\process\vcode\images\reload.gif
+Content Type: image/gif
+
+Uri: https://www.luciemccullough.com/
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-14.htm
+Content Type: text/html
+
+Uri: https://web.facebook.com/pages/Baita-1697-Luxury-Italian-ski-lodge/113476025407934?_rdc=1&_rdr
+File Name: C:\Downloaded Web Sites\www.baita1697.com\pages\Baita-1697-Luxury-Italian-ski-lodge\113476025407934.html
+Content Type: text/html
+
+Uri: http://www.baita1697.com/js/slides.js
+File Name: C:\Downloaded Web Sites\www.baita1697.com\js\slides.js
+Content Type: application/javascript
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0005.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0005.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/244368_113483032073900_113476025407934_130451_1864008_o.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\244368_113483032073900_113476025407934_130451_1864008_o.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0002.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0002.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0046.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0046.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0007.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0007.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0009.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0009.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0015.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0015.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/392329_205538689535000_113476025407934_428556_2136216064_n.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\392329_205538689535000_113476025407934_428556_2136216064_n.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0029.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0029.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/DSC_0188.JPG.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\DSC_0188.JPG.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0008.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0008.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0025.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0025.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0026.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0026.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0027.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0027.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0024.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0024.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/251634_113482125407324_113476025407934_130441_7321631_n.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\251634_113482125407324_113476025407934_130441_7321631_n.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0021.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0021.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0022.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0022.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/244179_113481722074031_113476025407934_130437_953237_o.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\244179_113481722074031_113476025407934_130437_953237_o.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/DSC_0137.JPG.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\DSC_0137.JPG.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0023.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0023.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/256121_113482662073937_113476025407934_130447_680125_o.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\256121_113482662073937_113476025407934_130447_680125_o.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0018.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0018.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0020.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0020.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0017.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0017.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/240330_113483148740555_113476025407934_130452_2909030_o.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\240330_113483148740555_113476025407934_130452_2909030_o.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0003.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0003.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0034.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0034.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/240458_113481925407344_113476025407934_130439_4499008_o.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\240458_113481925407344_113476025407934_130439_4499008_o.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0035.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0035.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/242067_113482032074000_113476025407934_130440_3638800_o.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\242067_113482032074000_113476025407934_130440_3638800_o.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/Casa_Lucie_McCullough_a_Pinerolo_Torino_0001.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\Casa_Lucie_McCullough_a_Pinerolo_Torino_0001.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/DSC_0175.JPG.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\DSC_0175.JPG.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/DSC_0221.JPG.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\DSC_0221.JPG.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/pragelato_golf_course.JPG.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\pragelato_golf_course.JPG.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/gallery1/the_val_troncea_national_park_where_the_2006_winter_olympic_cross_country_took_place.JPG.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\gallery1\the_val_troncea_national_park_where_the_2006_winter_olympic_cross_country_took_place.JPG.jpg
+Content Type: image/jpeg
+
+Uri: https://player.vimeo.com/video/151244689?autoplay=1
+File Name: C:\Downloaded Web Sites\www.baita1697.com\video\151244689.html
+Content Type: text/html
+
+Uri: http://www.baita1697.com/photos/summer1/summer1.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\summer1\summer1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/summer1/summer3.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\summer1\summer3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/summer1/summer2.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\summer1\summer2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/photos/summer1/the_val_troncea_national_park_where_the_2006_winter_olympic_cross_country_took_place.JPG.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\photos\summer1\the_val_troncea_national_park_where_the_2006_winter_olympic_cross_country_took_place.JPG.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/watch?v=YAW2Gcth9RE
+File Name: C:\Downloaded Web Sites\www.baita1697.com\watch.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=pA6j3nN_hFI
+File Name: C:\Downloaded Web Sites\www.baita1697.com\watch-1.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=uE4SJMEJIHw
+File Name: C:\Downloaded Web Sites\www.baita1697.com\watch-2.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=Z4a26Qi5vyM
+File Name: C:\Downloaded Web Sites\www.baita1697.com\watch-3.html
+Content Type: text/html
+
+Uri: http://maps.google.com/maps?saddr=Turin+Caselle+Airport,+Strada+San+Maurizio,+Caselle+Torinese,+Italy&daddr=10060+Pattemouche,+Pragelato,+Italy&hl=en&ll=45.07643,7.35672&spn=0.821386,2.113495&sll=45.066247,7.219391&sspn=0.410768,1.056747&geocode=FU6SsQIdY550ACEkY3mX1c8B4A;FQ9xrgIdRpdpACmVV9TzTcSJRzGBwIZXfuYFJg&oq=10060+Pattemouche,+Italy&mra=ls&t=m&z=10
+File Name: C:\Downloaded Web Sites\www.baita1697.com\maps.html
+Content Type: text/html
+
+Uri: https://www.google.com/maps?saddr=Turin+Caselle+Airport,+Strada+San+Maurizio,+Caselle+Torinese,+Italy&daddr=10060+Pattemouche,+Pragelato,+Italy&hl=en&ll=45.07643,7.35672&spn=0.821386,2.113495&sll=45.066247,7.219391&sspn=0.410768,1.056747&geocode=FU6SsQIdY550ACEkY3mX1c8B4A;FQ9xrgIdRpdpACmVV9TzTcSJRzGBwIZXfuYFJg&oq=10060+Pattemouche,+Italy&mra=ls&t=m&z=10
+File Name: C:\Downloaded Web Sites\www.baita1697.com\maps-1.html
+Content Type: text/html
+
+Uri: http://www.baita1697.com/images/directions/baita_1697_map2.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\directions\baita_1697_map2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/directions/baita_1697_map3.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\directions\baita_1697_map3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/directions/baita_1697_map4.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\directions\baita_1697_map4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/video.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\video.jpg
+Content Type: image/jpeg
+
+Uri: https://www.quirkycooking.com.au/2020/01/luxury-health-retreat-in-the-italian-alps/
+File Name: C:\Downloaded Web Sites\www.baita1697.com\2020\01\luxury-health-retreat-in-the-italian-alps\index.htm
+Content Type: text/html
+
+Uri: http://www.baita1697.com/images/baita1697_floor_plan_2a.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\baita1697_floor_plan_2a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.baita1697.com/images/baita1697_floor_plan_1.jpg
+File Name: C:\Downloaded Web Sites\www.baita1697.com\images\baita1697_floor_plan_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.britishairways.com/travel/home/public/en_gb
+File Name: C:\Downloaded Web Sites\www.baita1697.com\travel\home\public\en_gb-1.html
+Content Type: text/html
+
+Uri: https://www.aeroportoditorino.it/it
+File Name: C:\Downloaded Web Sites\www.baita1697.com\it.html
+Content Type: text/html
+
+Uri: https://www.airportmalpensa.com/
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-63.htm
+Content Type: text/html
+
+Uri: https://cavourese.it/it/homepage
+File Name: C:\Downloaded Web Sites\www.baita1697.com\it\homepage.html
+Content Type: text/html
+
+Uri: http://www.sadem.it/it/home.aspx
+File Name: C:\Downloaded Web Sites\www.baita1697.com\it\home.aspx.html
+Content Type: text/html
+
+Uri: https://www.avis.it/it
+File Name: C:\Downloaded Web Sites\www.baita1697.com\it-1.html
+Content Type: text/html
+
+Uri: https://www.gov.uk/world/italy
+File Name: C:\Downloaded Web Sites\www.baita1697.com\world\italy.html
+Content Type: text/html
+
+Uri: https://www.comune.pragelato.to.it/it-it/home
+File Name: C:\Downloaded Web Sites\www.baita1697.com\it-it\home.html
+Content Type: text/html
+
+Uri: https://www.comune.sestriere.to.it/it-it/home
+File Name: C:\Downloaded Web Sites\www.baita1697.com\it-it\home-1.html
+Content Type: text/html
+
+Uri: https://www.scuolascipragelato.com/index.php/it/
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index.php\it\index.htm
+Content Type: text/html
+
+Uri: https://www.ilmeteo.it/meteo/Pragelato
+File Name: C:\Downloaded Web Sites\www.baita1697.com\meteo\Pragelato.html
+Content Type: text/html
+
+Uri: https://www.snow-forecast.com/resorts/Sestriere/6day/mid
+File Name: C:\Downloaded Web Sites\www.baita1697.com\resorts\Sestriere\6day\mid.html
+Content Type: text/html
+
+Uri: https://www.snow-forecast.com/resorts/Pragelato/6day/mid
+File Name: C:\Downloaded Web Sites\www.baita1697.com\resorts\Pragelato\6day\mid.html
+Content Type: text/html
+
+Uri: https://www.villaggiokinka.it/
+File Name: C:\Downloaded Web Sites\www.baita1697.com\index-65.htm
+Content Type: text/html
+
+Uri: https://maps.google.com/maps?saddr=Caselle+Torinese,+Turin,+Italy&daddr=44.929795,7.4851281+to:10060+Pattemouche,+Pragelato,+Italy&hl=en&ll=44.871443,7.814026&spn=0.798057,2.113495&sll=44.942931,7.334747&sspn=0.398532,1.056747&geocode=FRVasQId3LB0ACmPSOO-FW-IRzHQhzxHfeYFBA;FQOTrQIdyDZyACnTkKGFYj2IRzExuCI7feYFEw;FQ9xrgIdRpdpACmVV9TzTcSJRzGBwIZXfuYFJg&oq=Turin+Caselle&mra=dpe&mrsp=1&sz=11&via=1&t=m&z=10
+File Name: C:\Downloaded Web Sites\www.baita1697.com\maps-2.html
+Content Type: text/html
+
+Uri: https://www.google.com/maps?saddr=Caselle+Torinese,+Turin,+Italy&daddr=44.929795,7.4851281+to:10060+Pattemouche,+Pragelato,+Italy&hl=en&ll=44.871443,7.814026&spn=0.798057,2.113495&sll=44.942931,7.334747&sspn=0.398532,1.056747&geocode=FRVasQId3LB0ACmPSOO-FW-IRzHQhzxHfeYFBA;FQOTrQIdyDZyACnTkKGFYj2IRzExuCI7feYFEw;FQ9xrgIdRpdpACmVV9TzTcSJRzGBwIZXfuYFJg&oq=Turin+Caselle&mra=dpe&mrsp=1&sz=11&via=1&t=m&z=10
+File Name: C:\Downloaded Web Sites\www.baita1697.com\maps-3.html
+Content Type: text/html
+
+Uri: https://maps.google.com/maps?saddr=Malpensa+Airport,+Milan,+Italy&daddr=45.0184,7.1113+to:10060+Pattemouche,+Pragelato,+Italy&hl=en&ll=44.797429,8.783569&spn=2.97404,5.905151&sll=44.976457,7.830505&sspn=1.482426,2.952576&geocode=FSZFuAId5PKEACH-fsegVwrxow;FSDtrgIdhIJsAClZT4U5dMuJRzHgu2I4feYFEw;FQ9xrgIdRpdpACmVV9TzTcSJRzGBwIZXfuYFJg&oq=Milan+Malpensa&mra=dpe&mrsp=1&sz=9&via=1&t=m&z=8
+File Name: C:\Downloaded Web Sites\www.baita1697.com\maps-4.html
+Content Type: text/html
+
+Uri: https://www.google.com/maps?saddr=Malpensa+Airport,+Milan,+Italy&daddr=45.0184,7.1113+to:10060+Pattemouche,+Pragelato,+Italy&hl=en&ll=44.797429,8.783569&spn=2.97404,5.905151&sll=44.976457,7.830505&sspn=1.482426,2.952576&geocode=FSZFuAId5PKEACH-fsegVwrxow;FSDtrgIdhIJsAClZT4U5dMuJRzHgu2I4feYFEw;FQ9xrgIdRpdpACmVV9TzTcSJRzGBwIZXfuYFJg&oq=Milan+Malpensa&mra=dpe&mrsp=1&sz=9&via=1&t=m&z=8
+File Name: C:\Downloaded Web Sites\www.baita1697.com\maps-5.html
+Content Type: text/html
+

@@ -1,0 +1,865 @@
+
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head id="head">
+
+        <!-- Facebook Pixel Code -->
+        <script>
+            !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+                n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+                t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '1014681198541965', {
+                em: 'insert_email_variable,'
+            });
+            fbq('track', 'PageView');
+            fbq('track', 'AddToCart', {
+                content_ids: ['1234', '1853', '9386'],
+                content_type: 'product'
+                value: 3.50,
+            currency: 'USD'
+            });
+            fbq('track', 'Purchase', {
+                content_ids: ['1234', '4642', '35838'],
+                content_type: 'product'
+                value: 247.35,
+            currency: 'USD'
+            });
+            fbq('track', '<EVENT_NAME>', {
+            <parameter_key>: <parameter_value>,
+            <parameter_key>: '<parameter_value>'
+            });
+		
+		</script>
+        <noscript>
+            <img height="1" width="1" style="display: none"
+                src="https://www.facebook.com/tr?id=1014681198541965&ev=PageView&noscript=1" />
+        </noscript>
+        <!-- DO NOT MODIFY -->
+        <!-- End Facebook Pixel Code -->
+
+        <link rel="stylesheet" type="text/css" href="/css/Stylesheets_editor.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="/css/background.css" media="screen" />
+        <link type="text/css" href="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.8/themes/smoothness/jquery-ui.css" rel="Stylesheet" />
+        <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.5.2.min.js" type="text/javascript"></script>
+        <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.8/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="/scripts/config.js"></script>
+        
+        <script type="text/javascript" src="/Scripts/jquery.ui.datepicker-it.js"></script>
+        
+        <title>SADEM</title>
+        
+	<script type="text/javascript" src="/scripts/jquery.cycle.all.min.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function(){
+      $('#imageSlider')
+      .after('<div id="imageSliderNav">')
+      .cycle({
+        fx:  'fade ',
+        speed: 3000,
+        timeout: 10000, 
+        pager:  '#imageSliderNav',
+		heigth:304
+      });
+  
+	});
+</script>
+<link rel="stylesheet" type="text/css" href="/css/home.css " media="screen"/>
+	
+	
+        <!--[if IE 6]>
+	    <link href="/css/ie6.css" rel="stylesheet" type="text/css" />
+	    <![endif]-->
+        <!--[if gte IE 6 ]>
+	    <link href="/css/ie.css" rel="stylesheet" type="text/css" />
+	    <![endif]-->
+        <script language="javascript">
+            if (location.pathname == "/azienda.aspxs") top.location.href = "azienda/chi-siamo.aspx";
+	    </script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-36856673-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+	</script>
+        
+        <script type="text/javascript" src="/scripts/jquery.cycle.all.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                /* Dots Slider 1 */
+                $(function () {
+                    $('#imageSlider')
+                    .after('<' + 'div id="imageSliderNav">')
+                    .cycle({
+                        fx: 'fade',
+                        speed: 1700,
+                        timeout: 5000,
+                        pager: '#imageSliderNav'
+                    });
+
+                    $('#searchButton').click(function () {
+                        var str = $('#searchstring').val();
+                        var prefix = '/it'
+
+                        window.location.href = prefix + '/search.aspx?search=' + str;
+                    });
+
+                    /*    $('#searchstring').keydown(function(event){    
+                  if(event.keyCode==13){
+                     $('#searchstring').trigger('click');
+                  }
+              });
+                    */
+
+
+                });
+            });
+
+
+</script>
+        <script type="text/javascript" src="/Scripts/Utilities.js"></script>
+        <script type="text/javascript">
+            $().ready(function () {
+                LockPage();
+                UnlockPage();
+
+                $('#cookieOK').click(function () {
+                    SetCookie('COOKIE_ACCEPTS', 'TRUE', 7);
+                    $('#cookies').hide();
+                });
+
+                $('#clickHere').click(function () {
+                    var url = "";
+
+                    if(window.location.href.indexOf("/it/") > 0)
+                        url="/it/NoteLegali.aspx";
+                    else
+                        url="/en/NoteLegali.aspx";
+
+                        window.location.replace(url);
+                });
+
+                var cookie = ReadCookie("COOKIE_ACCEPTS");
+
+                if (cookie != "") {
+                    $('#cookies').hide()
+                } else {
+                    $('#cookies').show();
+                }
+            });
+        </script>
+    </head>
+
+    <body>
+
+        <form method="post" action="/it/home.aspx" id="ctl01">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYCZg9kFgJmD2QWAgICEGRkFgICBw9kFgICPQ9kFgJmD2QWAmYPDxYCHgdWaXNpYmxlZ2QWAgIBDxQrAAIPFgQeC18hRGF0YUJvdW5kZx4LXyFJdGVtQ291bnQCA2RkFgJmD2QWAgIBD2QWBmYPZBYCZg9kFgICAw9kFgQCAQ8PFgIeBFRleHQFWTE5MS8yMCAtIFNQT1NUQU1FTlRPIERFRklOSVRJVk8gREkgRkVSTUFUQSBJTiBUT1JJTk8gLSBDLnNvIFVuaW9uZSBTb3ZpZXRpY2EvYy5zbyBUcmFpYW5vZGQCAw8PFgIeC05hdmlnYXRlVXJsBXVodHRwOi8vd3d3LnNhZGVtLml0L2l0L2FsbG5ld3MvMTkxMjAtc3Bvc3RhbWVudG8tZGVmaW5pdGl2by1kaS1mZXJtYXRhLWluLXRvcmluby1jc28tdW5pb25lLXNvdmlldGljYWNzby10cmFpYW5vLmFzcHhkZAIBD2QWAmYPZBYCAgMPZBYEAgEPDxYCHwMFXjE4OS8yMCAtIEF1dG9saW5lYTogIlRPUklOTy9NQUxQRU5TQSBBZXJvcG9ydGkiIE1vZGlmaWNhIHByb2dyYW1tYSBkaSBlc2VyY2l6aW8gZGFsIDIzLzExLzIwMjBkZAIDDw8WAh8EBXlodHRwOi8vd3d3LnNhZGVtLml0L2l0L2FsbG5ld3MvMTg5MjAtYXV0b2xpbmVhLXRvcmlub21hbHBlbnNhLWFlcm9wb3J0aS1tb2RpZmljYS1wcm9ncmFtbWEtZGktZXNlcmNpemlvLWRhbC0yMzExMjAyMC5hc3B4ZGQCAg9kFgJmD2QWAgIDD2QWBAIBDw8WAh8DBYEBMTg4LzIwIC0gQXV0b2xpbmVhIDI2NjogIlRPUklOTy9TQUxVR0dJQSAoU3RhYi4gTGl2YU5vdmEpIiBVbHRlcmlvcmUgbW9kaWZpY2EgZGkgcGVyY29yc28gZSBmZXJtYXRlIGluIFRvcnJhenphIFBpZW1vbnRlL1NhbHVnZ2lhZGQCAw8PFgIfBAWcAWh0dHA6Ly93d3cuc2FkZW0uaXQvaXQvYWxsbmV3cy8xODgyMC1hdXRvbGluZWEtMjY2LXRvcmlub3NhbHVnZ2lhLShzdGFiLWxpdmFub3ZhKS11bHRlcmlvcmUtbW9kaWZpY2EtZGktcGVyY29yc28tZS1mZXJtYXRlLWluLXRvcnJhenphLXBpZW1vbnRlc2FsdWdnaWEuYXNweGRkGAEFWmN0bDAwJGN0bDAwJGN0bDAwJENvbnRlbnRQbGFjZUhvbGRlckRlZmF1bHQkTWFpbkNvbnRlbnQkR2VzdGlvbmVOZXdzSG9tZV8yMCRsdkRldHRhZ2xpTmV3cw8UKwAOZGRkZGRkZBQrAANkZGQCA2RkZGYC/////w9k7QOe4FdW2bFeNMoJ4uJ2yMREbtxWUxhLKXNubntRCW4=" />
+</div>
+
+            <div id="content">
+                <div id="header">
+                    <div>
+                        <a style="float:left;margin-top:20px;" href='/it/home.aspx'><img src="/media/957776/logo-arriva_1-01.jpg" border="0" alt="logo" /></a><!--"/media/944877/arrivasadem2018.png" width="270px" height="50px"--> <!--"/img/MasterImg/Sadem.png" width="166px" height="33px"-->
+                    </div>
+			
+                    <!--<div id="logo2"><a href="http://www.arriva.it/"><img src="/img/MasterImg/Logo-Arriva.png" border="0" alt="logo_arriva"/></a></div> 
+
+                    <div id="logo2"> <a href="http://www.arriva.it/">
+                            <img src="/media/944882/LogoArriva2018_web.png" width="124px" height="45px" border="0" alt="logo_arriva" /></a>
+                    </div>-->
+					<div id="logo2">
+						<img src="/media/957781/sadem_2020_sito.jpg" border="0" alt="logo_arriva" /></div>
+
+                    <div id="search">
+                        <img class="searchButton" type="image" id="searchButton" name="searchButton" src="/img/lente1.png" alt="cerca" />
+                        <input class="searchstring" type="text" id="searchstring" name="searchstring" value="" size="17" maxlength="150" />
+                    </div>
+                    <div>
+                        &nbsp;&nbsp;&nbsp;
+	
+                       
+
+                            <a href="javascript:void(0)">
+        <img class="bandiera selected" src="../css/MultiLanguage/flags/it.png" alt="italiano" title="italiano"/></a>
+    <a href="/en/home.aspx">
+        <img class="bandiera" src="../css/MultiLanguage/flags/gb.png" alt="English" title="English"/></a>
+
+                    </div>
+                    <div style="clear: both;"></div>
+                    <div class="menu">
+                        <link rel="stylesheet" type="text/css" href="/css/dropdown.css" media="screen" /><script type="text/javascript">
+		  function cambiaColorOver(el)
+		  {
+		  $(el).addClass('menu-selected');
+		  $(el).parents('td').addClass('menu-selected');
+		  }
+		  function cambiaColorOut(el)
+		  {
+		  $(el).removeClass('menu-selected');
+		  $(el).parents('td').removeClass('menu-selected');
+		  }
+	  </script><table cellspacing="1" style="width:100%;"><tr><div id="navi"><td class="other" align="center"><div class="men"><a href="/it/azienda.aspx" class="textmen" target="_self" onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)">Chi siamo</a><div style="position:absolute;"><div class="submen"><a onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)" class="textsubmen" href="/it/azienda/i-numeri.aspx">I numeri</a></div><div class="submen"><a onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)" class="textsubmen" href="/it/azienda/codice-etico.aspx">Codice etico</a></div><div class="submen"><a onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)" class="textsubmen" href="/it/azienda/info-coronavirus.aspx">CoronaVirus</a></div><div class="submen"><a onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)" class="textsubmen" href="/it/azienda/contatti.aspx">Contatti</a></div></div></div></td></div><div id="navi"><td class="other" align="center"><div class="men"><a href="/it/prodotti.aspx" class="textmen" target="_self" onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)">Prodotti</a><div style="position:absolute;"><div class="submen"><a onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)" class="textsubmen" href="/it/prodotti/orari.aspx">Orari</a></div><div class="submen"><a onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)" class="textsubmen" href="/it/prodotti/calcola-percorso.aspx">Calcola Percorso</a></div><div class="submen"><a onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)" class="textsubmen" href="/it/prodotti/trasporto-pubblico-locale.aspx">Trasporto Pubblico Locale</a></div><div class="submen"><a onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)" class="textsubmen" href="/it/prodotti/collegamento-aeroporti.aspx">Collegamento Aeroporti</a></div><div class="submen"><a onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)" class="textsubmen" href="/it/prodotti/granturismo.aspx">Granturismo</a></div><div class="submen"><a onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)" class="textsubmen" href="/it/prodotti/noleggio.aspx">Noleggio</a></div><div class="submen"><a onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)" class="textsubmen" href="/it/prodotti/servizi-al-cliente.aspx">Servizi al cliente</a></div></div></div></td></div><div id="navi"><td class="other" align="center"><div class="men"><a href="/it/qualità-ambiente.aspx" class="textmen" target="_self" onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)">Qualità &amp; Ambiente</a><div style="position:absolute;"><div class="submen"><a onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)" class="textsubmen" href="/it/qualità-ambiente/politica-aziendale.aspx">Politica aziendale</a></div></div></div></td></div><div id="navi"><td class="other" align="center"><div class="men"><a href="/it/acquista.aspx" class="textmen" target="_self" onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)">Acquista</a><div style="position:absolute;"><div class="submen"><a onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)" class="textsubmen" href="/it/acquista/acq-linee-commerciali.aspx">Acquisto linee Commerciali</a></div><div class="submen"><a onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)" class="textsubmen" href="/it/acquista/ricarica-abbonamento.aspx">Ricarica Abbonamento</a></div><div class="submen"><a onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)" class="textsubmen" href="/it/acquista/voucher-abbonamenti.aspx">Voucher Abbonamenti</a></div></div></div></td></div><div id="navi"><td class="other" align="center"><div class="men"><a href="/it/area-clienti.aspx" class="textmen" target="_self" onmouseover="javascript:cambiaColorOver(this);" onmouseout="javascript:cambiaColorOut(this)">Area Clienti</a></div></td></div></tr></table>
+                    </div>
+                </div>
+
+                <!--<div>-->
+                 
+	
+ <div id="leftcontent">
+		 
+      <div>
+           <div id="slider">
+			<div id="imageSlider">
+				
+			<!--PROBLEMI BLACKOUT TELEFONI
+				  <div class="imageSlide">        
+                    <div class="imageSliderImage">
+	                       <img src="/media/298667/problematelefoni_2-01.jpg" border="0" alt="pull" />
+					</div>
+                  </div> 
+			-->
+				
+			<!--PROBLEMI TELEFONI
+				  <div class="imageSlide">        
+                    <div class="imageSliderImage">
+	                       <img src="/media/951623/ProblemaTelefoni_2-02.jpg" border="0" alt="pull" />
+					</div>
+                  </div> 
+			-->
+				
+				<!--SCIOPERO
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+                       <img src="/media/850864/Sciopero1-01.jpg" border="0" alt="pull"/>
+                    </div>
+                  </div>
+				-->
+				
+				<!--TORINO OUTLET
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="/it/acquista/linee-montane-torino-outlet-village.aspx">
+                       <img src="/media/877566/torino-outlet.jpg" border="0" alt="pull"/>
+						</a>
+                    </div>
+                  </div>-->
+				
+					<!--VOUCHER ABBONAMENTI-->
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="http://www.sadem.it/it/prodotti/trasporto-pubblico-locale/voucher-abbonamenti-formula.aspx">
+							<img src="/media/962663/Banner-Voucher-AbbonamentiFormula-pagina-03.png" border="0" alt="pull"/>
+						</a>
+                    </div>
+                  </div>
+				
+					<!--ECOMMERCE EXTRATO
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="http://ecommerce.extrato.it/" target="_blank">
+							<img src="/media/959514/banner-abbonamenti-02.jpg" border="0" alt="pull"/>
+						</a>
+                    </div>
+                  </div>-->
+				
+									<!--ECOMMERCE EXTRATO TESSERA-->
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="http://www.sadem.it/it/prodotti/trasporto-pubblico-locale/bip-pyou.aspx" target="_blank">
+							<img src="/media/961481/Banner-Abbonamenti-01.jpg" border="0" alt="pull"/>
+						</a>
+                    </div>
+                  </div>
+			
+				
+				<!--NUOVO MAPLENSA-->
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+												<a href="http://www.sadem.it/it/prodotti/collegamento-aeroporti/torino-milano-malpensa.aspx">
+													<img src="/media/960842/malpensa-novembre2020.jpg" border="0" alt="pull"/></a>
+                    </div>
+                  </div>
+				
+				<!--AUTOCERTIFICAZIONE-->
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+												<a href="http://www.sadem.it/media/960579/dichiarazione_sadem_compilabile.pdf">
+													<img src="/media/961096/ComunicazioneAutocertificazione_Sadem-02.jpg" border="0" alt="pull"/></a>
+                    </div>
+                  </div>
+				
+					
+				<!--PROBLEMI APT-->
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+												<a href="http://www.sadem.it/it/prodotti/servizi-al-cliente.aspx">
+												<img src="/media/961153/APT-Covid.jpg" border="0" alt="pull"/></a>
+                    </div>			
+                  </div>
+				
+									
+				<!--CORONAVIRUS-->
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="http://www.sadem.it/it/azienda/info-coronavirus.aspx">
+							<img src="/media/961339/Banner-Covid-03.jpg" border="0" alt="pull"/>
+						</a>
+                    </div>
+                  </div>
+				
+				<!--CANALE TELEGRAM-->
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="https://t.me/ArrivaSademTorino" target="_blank">
+							<img src="/media/959519/Telegram.jpg" border="0" alt="pull"/>
+						</a>
+                    </div>
+                  </div>
+				
+				<!--NUOVO MILANO/AOSTA-->
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+												<a href="http://www.sadem.it/it/prodotti/orari.aspx">
+													<img src="/media/960149/ricominciamosadem-01.jpg" border="0" alt="pull"/></a>
+                    </div>
+                  </div>
+				
+					<!--NUOVO SAINT VINCENT-->
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+												<a href="http://www.sadem.it/it/prodotti/granturismo.aspx">
+													<img src="/media/960154/ricominciamosadem-02.jpg" border="0" alt="pull"/></a>
+                    </div>
+                  </div>
+				
+					<!--NUOVO OUTLET
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+												<a href="http://www.sadem.it/it/prodotti/granturismo.aspx">
+													<img src="/media/960159/tov-07.jpg" border="0" alt="pull"/></a>
+                    </div>
+                  </div>-->
+								
+			
+				<!--VENDITA TITOLI DURANTE CORONAVIRUS
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="http://www.sadem.it/it/prodotti/trasporto-pubblico-locale/rivendite.aspx">
+							<img src="/media/958344/banner_ticket-sadem-coronavirus.jpg" border="0" alt="pull"/>
+						</a>
+                    </div>
+                  </div>-->
+				
+					<!--CORONAVIRUS
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="http://www.sadem.it/it/azienda/info-coronavirus.aspx">
+							<img src="/media/958162/bannersadem-corona.jpg" border="0" alt="pull"/>
+						</a>
+                    </div>
+                  </div>-->
+				
+				<!--Caselle Express
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="http://www.sadem.it/it/prodotti/collegamento-aeroporti/torino-torino-airport.aspx">
+							<img src="/media/957057/Banner-Express_2019-02.jpg" border="0" alt="pull" Width="600" Height="300"/>
+						</a>
+                    </div>
+                  </div>-->
+				<!--Hackability4Mobility
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="http://www.hackability.it/4mobility/ ">
+							<img src="/media/955948/banner.jpeg" border="0" alt="pull" Width="600" Height="300"/>
+						</a>
+                    </div>
+                  </div>-->
+				
+				<!--CONTACTLESS CASELLE
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="http://www.sadem.it/it/prodotti/collegamento-aeroporti/pagamento-contactless-torino-torino-airport.aspx">
+							<img src="/media/951305/banner-emv-2018.jpg" border="0" alt="pull"/>
+						</a>
+                    </div>
+                  </div>-->
+				
+					<!--EVASIONE
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="http://www.sadem.it/it/prodotti/trasporto-pubblico-locale/contrasto-allevasione.aspx">
+                       <img src="/media/951427/Banner_Holacheck_final-01.jpg" border="0" alt="pull"/>
+						</a>
+                    </div>
+                  </div>-->
+
+				
+				<!--SPOSTAMENTO FERMATA CASELLE
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="http://www.sadem.it/it/allnews/10918-autolinea-torinocaselle-aeroporto-spostamento-capolinea-in-torino-dal-30072018.aspx">
+                       <img src="/media/948642/cambiocapolinea_tocaselle2018-05.jpg" border="0" alt="pull"/>
+						</a>
+                    </div>
+                  </div>-->
+				
+				
+				<!--ESTORE ARRIVA	
+				<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="http://estore.arriva.it/IT/Account/Register" target="_blank">
+							<img src="/media/944589/New%20Ecommerce-02.jpg" border="0" alt="pull" /></a>
+					</div>
+                  </div>-->
+				
+					
+				<!--TEATROBUS	
+				<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="http://www.sadem.it/it/prodotti/teatrobus-torino.aspx" target="_blank">
+							<img src="/media/944819/Banner%20Web-06.jpg" border="0" alt="pull" />
+						</a>
+					</div>
+                  </div>-->
+				
+				<!--TORINO MALPENSA
+					<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="/it/prodotti/collegamento-aeroporti/torino-milano-malpensa.aspx">
+                       <img src="/media/829384/ARR_ADVSito_Malp_2017.jpg" border="0" alt="pull"/>
+						</a>
+                    </div>
+                  </div>-->
+				
+			<!--TORINO CASELLE             		  			  
+                  <div class="imageSlide">
+                    <div class="imageSliderImage">
+						<a href="/it/prodotti/collegamento-aeroporti/torino-torino-airport.aspx">
+                       <img src="/media/795030/caselle2017.jpg" border="0" alt="Sadem1"/>
+						</a>
+                     </div>
+                   </div>-->    
+	
+			<!--AOSTA CASELLE	
+				<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="http://www.savda.it/it/106/valle-d-aosta-caselle-aeroporto/" target="_blank">
+							<img src="/media/828082/Banner_AostaCaselle-2017.jpg" border="0" alt="pull" />
+						</a>
+					</div>
+                  </div>-->
+					
+				
+			<!--TORINO AOSTA
+				<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="http://www.sadem.it/media/750167/000160.pdf">
+							<img src="/media/951593/Banner_Aosta-Torino-12.jpg" border="0" alt="pull" />
+						</a>
+					</div>
+                  </div>-->	
+				
+					<!--OPNE CITY	
+				<div class="imageSlide">        
+                    <div class="imageSliderImage">
+						<a href="https://www.opencitymilan.com/" target="_blank">
+							<img src="/media/947416/opencity.png" border="0" alt="pull" />
+						</a>
+					</div>
+                  </div>-->
+				  
+			
+              </div>
+          </div>
+  </div>
+
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center; font-size:16px;"><strong><span style="color: #00a1ac;">SCARICA QUI L'<span style="text-decoration: underline;"><a style="color: #e25300;" title="Autocertificazione compilabile" href="http://www.sadem.it/media/960579/dichiarazione_sadem_compilabile.pdf" target="_blank" rel="noopener"><span style="color: #e25300; text-decoration: underline;">AUTOCERTIFICAZIONE</span></a></span> DA COMPILARE, STAMPARE, FIRMARE E CONSEGNARE ALL'AUTISTA PER POTER VIAGGIARE SULLE LINEE ARRIVA SADEM<br />Torino - Aeroporto di Milano Malpensa | Torino - Aosta | Torino - Saint Vincent</span></strong></div>
+<div style="text-align: center;"><strong>&nbsp;</strong></div>
+<div style="text-align: center; font-size:16px;"><strong><span style="color: #00a1ac;">LEGGI QUI L'INFORMATIVA SUL <span style="text-decoration: underline;"><span style="color: #e25300;"><a style="color: #e25300;" title="Privacy" href="http://www.sadem.it/media/960681/InformativaCovid-BusSadem.pdf" target="_blank" rel="noopener">TRATTAMENTO DEI DATI PERSONALI</a></span></span></span></strong></div></blink>
+<div style="text-align: center;"><strong>&nbsp;</strong></div> 
+<div style="text-align: center; font-size:16px;"><strong><span style="color: #00a1ac;">DOWNLOAD <span style="text-decoration: underline;"><span style="color: #e25300;"><a style="color: #e25300;" title="Privacy" href="http://www.sadem.it/media/962631/Sadem_declaration_ENG.pdf" target="_blank" rel="noopener">THE PASSENGER LOCATOR FORM ACCORDING ARTICLES. 46 AND 47 OF THE D.P.R. DECEMBER 28TH 2000, No. 445</a></span></span></span></strong></div></blink>
+<div style="text-align: center;"><strong>&nbsp;</strong></div>	 
+	<!--Ex colonna dx-->	 
+	 <table> <tr>
+     <td >	 
+	 <div id="tpl">
+			 <A HREF='/it/prodotti/servizi-al-cliente.aspx' onmouseover="document.tpl.src='/media/941544/ServiziGreen.png'"
+				 onmouseout="document.tpl.src='/media/941539/ServiziArriva.png'">
+			 
+					 <IMG SRC="/media/941539/ServiziArriva.png" NAME="tpl"  BORDER="0" alt="servcliente" title="servizi al cliente"/>
+            <div id="serv">
+             <span>Servizi al cliente</span>
+            </div>
+				 </A>
+         </div>
+	</td>
+	<td>
+         <div id="dx">
+			 <A HREF='/it/prodotti/orari.aspx' onmouseover="document.ora.src='/media/941574/TimeYellow.png'"
+				 onmouseout="document.ora.src='/media/941559/TimeArriva.png'">
+					 <IMG SRC="/media/941559/TimeArriva.png" NAME="ora"  BORDER="0" alt="orari" title="orari"/>
+              <div id="orari">
+                <span>Orari - Calcola Percorso</span>
+              </div>
+				 </A>
+         </div>
+	</td>
+	</tr>
+	<tr><td>
+         <div id="dx1">
+			  <A HREF='/it/prodotti/trasporto-pubblico-locale/bip-pyou.aspx' onmouseover="document.biglietti.src='/media/941494/BiglBlu.png'"
+				  onmouseout="document.biglietti.src='/media/941489/BiglArriva.png'">
+			  
+				  <IMG SRC="/media/941489/BiglArriva.png" NAME="biglietti"  BORDER="0" alt="biglietti" title="biglietti e abbonamenti"/>
+            <div id="biglAbb">
+             <span>Biglietti e Abbonamenti <br/> <center />       BIP / Pyou</span>
+           </div>
+				  </A>
+         </div>
+	</td>
+	<td>
+<!--TARIFFE
+         <div id="dx2">
+			<A HREF='/it/prodotti/trasporto-pubblico-locale/tariffe.aspx' onmouseover="document.tariffe.src='/img/HomeAcqImg/tariffeSea.jpg'"
+				onmouseout="document.tariffe.src='/img/HomeAcqImg/tariffeGray.jpg'">
+			 
+					<IMG SRC="/img/HomeAcqImg/tariffeGray.jpg" NAME="tariffe"  BORDER="0" alt="tariffe" title="tariffe"/>
+             <div id="tariffe">
+               <span>Acquista/Ricarica il tuo Abbonamento</span>
+             </div>
+				</A>
+         </div>
+-->
+
+<!-- TEATROBUS
+	 
+	 <div id="dx2">
+			<A HREF='/it/prodotti/teatrobus-torino.aspx' onmouseover="document.tariffe.src='/media/941554/TeatroRed.png'"
+				onmouseout="document.tariffe.src='/media/941549/TeatroArriva.png'">
+			 
+					<IMG SRC="/media/941549/TeatroArriva.png" NAME="tariffe"  BORDER="0" alt="teatrobus" title="teatrobus"/>
+             <div id="tariffe">
+               <span>Acquista/Ricarica il tuo Abbonamento</span>
+             </div>
+				</A>
+         </div>
+	 
+	 </td></tr></table>
+-->
+
+<!-- ECOMMERCE EXTRATO--> 
+	 
+	 <div id="dx2">
+			<A HREF='/it/acquista/ricarica-abbonamento.aspx' onmouseover="document.tariffe.src='/media/945986/ExtraEcomHomeRed.png'"
+				onmouseout="document.tariffe.src='/media/945981/ExtraEcomHomeArriva.png'">
+			 
+					<IMG SRC="/media/945981/ExtraEcomHomeArriva.png" NAME="tariffe"  BORDER="0" alt="EcommerceExtrato" title="EcommerceExtrato"/>
+             <div id="tariffe">
+               <span>Acquista/Ricarica il tuo Abbonamento</span>
+             </div>
+				</A>
+         </div>
+	 
+	 </td></tr></table>
+
+  
+	 
+	 
+	 
+	 
+	 
+  <div>
+     <table> <tr>
+          <td >
+            <div id="timag1">
+				
+              <div id="aeroporti">
+				  <A HREF='/it/prodotti/collegamento-aeroporti.aspx'/>                                        
+				  <span class="text"><b>COLLEGAMENTO AEROPORTI</b></span>
+				<!--  <div>                                        
+				 <IMG class="logoMalpensa" SRC="/img/HomeAcqImg/LogoMalpensa.png" alt="logoMalpensa"  BORDER="0" />                             
+				  </div>-->
+               </div>
+              <A HREF='/it/prodotti/collegamento-aeroporti.aspx' onmouseover="document.aero.src='/media/941484/AeropOrange.png'"
+				  onmouseout="document.aero.src='/media/941469/AeropArriva.png'">
+					  <IMG SRC="/media/941469/AeropArriva.png" NAME="aero"  BORDER="0" alt="aeroporti" title="collegamento aeroporti"/></A>
+              <div id="acquisto">
+                <span ><b>Acquista</b></span>
+               </div> 
+			  
+            </div>
+            
+          </td>
+          <td >
+           <div id="timag">
+             <div id="noleggio">
+			    <A HREF='/it/prodotti/noleggio.aspx'/>
+                <span class="text"><b>NOLEGGIO</b></span>
+               </div>
+			   <A HREF='/it/prodotti/noleggio.aspx' onmouseover="document.nol.src='/media/941529/NolBlu.png'"
+				   onmouseout="document.nol.src='/media/941524/NolArriva.png'" >
+					   <IMG SRC="/media/941524/NolArriva.png" NAME="nol"  BORDER="0" alt="noleggio" title="noleggio"/></A>
+           </div>
+          </td>
+          </tr>
+          <tr>
+          <td>
+            <div id="timag">
+               <div id="turismo">
+				  <A HREF='/it/prodotti/granturismo.aspx'>                                      
+					  <span class="text"><b>LINEE GRANTURISMO</b></span></A>
+               </div>
+		       <A HREF='/it/prodotti/granturismo.aspx' onmouseover="document.tur.src='/media/941519/GTGreen.png'"
+					onmouseout="document.tur.src='/media/941504/GTArriva.png'">
+				
+						<IMG SRC="/media/941504/GTArriva.png" NAME="tur"  BORDER="0" alt="gturismo" title="linee granturismo"/></A>
+               <div id="acquisto">
+                <span ><b>Acquista</b></span>
+               </div>
+            </div>
+          </td>
+          <td>
+            <div id="timag">
+              <div id="servizi">
+				<A HREF='/it/prodotti/trasporto-pubblico-locale/info.aspx'/>
+                <span class="text"><b>TRASPORTO PUBBLICO LOCALE</b></span>
+				<div>                                        
+                <IMG class="logoExtra" SRC="/img/HomeAcqImg/EXTRA_TO_bn.png" alt="logoExtraTo"  BORDER="0" />                                              
+                </div>
+                </div>
+			    <A HREF='/it/prodotti/trasporto-pubblico-locale/info.aspx' onmouseover="document.ser.src='/media/941584/TPLViola.png'"
+					onmouseout="document.ser.src='/media/941579/TPLArriva.png'">
+						<IMG SRC="/media/941579/TPLArriva.png" NAME="ser"  BORDER="0" alt="trasporto" title="trasporto pubblico locale"/></A>
+            </div>
+          </td>
+		  </tr>
+		 </table></div>
+	 
+	 </div>	
+
+	 
+		 
+<!--COLONNA DX-->
+ 
+
+	 <div id="rightcontent">
+	  
+	 <!-- ECOMMERCE-->	  
+		
+	 <div id="boxacquisto">
+		<div id="titleacquisto">
+		
+		 <div id="title">
+			 <b>Acquisto Biglietti</b>
+			</div>
+			
+			
+        	<div><iframe src="http://estore.arriva.it/it/home/boxRicerca?cssname=box1" width="300" height="429" frameborder="0" scrolling="no"></iframe></div>
+		 </div>
+		 </div></div>
+	
+             
+
+
+	
+	 <!-- NEWS-->
+      <div id="rightcontent">
+        <div id="news">
+          <div>
+            <div id="title">
+              <font>News</font>
+            </div>
+            <div id="fr">
+			 <a href='/it/allnews.aspx' ><img src="/media/941499/freccia.png" border="0" alt="freccia" title="notizie"/></a>
+            </div>
+          </div>
+          <hr />
+          <div class="notizia">
+			  <div id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_pnlTable">
+	
+    
+            <table id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_table1" width="100%">
+
+			
+            <tr id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_Tr3_0">
+				<td id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_Td6_0" style="color: White;">
+                    
+                               
+                    <span id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_lblData_0">25.11.2020</span> -
+                   <span id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_lblOra_0">10:00</span>
+                </td>
+			</tr>
+			
+            <tr>
+                <td id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_Td1_0" style="color: White; font-weight: bold; font-family: Tahoma;">
+                    
+                    <span id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_lblTitolo_0" style="vertical-align: top;font-size:8pt;">191/20 - SPOSTAMENTO DEFINITIVO DI FERMATA IN TORINO - C.so Unione Sovietica/c.so Traiano</span>
+                   
+                   <a id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_HyperLink1_0" href="http://www.sadem.it/it/allnews/19120-spostamento-definitivo-di-fermata-in-torino-cso-unione-sovieticacso-traiano.aspx" style="vertical-align:bottom;">
+                   <img src="/img/freccia2.png" alt="dettaglio notizia" title="dettaglio notizia" height="12" width="18" border="0"/></a>
+                </td>
+			
+            </tr>
+           <tr>
+                <td>
+                </td>
+            </tr>
+          
+        
+			
+            <tr id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_Tr3_1">
+				<td id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_Td6_1" style="color: White;">
+                    
+                               
+                    <span id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_lblData_1">20.11.2020</span> -
+                   <span id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_lblOra_1">10:00</span>
+                </td>
+			</tr>
+			
+            <tr>
+                <td id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_Td1_1" style="color: White; font-weight: bold; font-family: Tahoma;">
+                    
+                    <span id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_lblTitolo_1" style="vertical-align: top;font-size:8pt;">189/20 - Autolinea: "TORINO/MALPENSA Aeroporti" Modifica programma di esercizio dal 23/11/2020</span>
+                   
+                   <a id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_HyperLink1_1" href="http://www.sadem.it/it/allnews/18920-autolinea-torinomalpensa-aeroporti-modifica-programma-di-esercizio-dal-23112020.aspx" style="vertical-align:bottom;">
+                   <img src="/img/freccia2.png" alt="dettaglio notizia" title="dettaglio notizia" height="12" width="18" border="0"/></a>
+                </td>
+			
+            </tr>
+           <tr>
+                <td>
+                </td>
+            </tr>
+          
+        
+			
+            <tr id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_Tr3_2">
+				<td id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_Td6_2" style="color: White;">
+                    
+                               
+                    <span id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_lblData_2">19.11.2020</span> -
+                   <span id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_lblOra_2">13:00</span>
+                </td>
+			</tr>
+			
+            <tr>
+                <td id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_Td1_2" style="color: White; font-weight: bold; font-family: Tahoma;">
+                    
+                    <span id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_lblTitolo_2" style="vertical-align: top;font-size:8pt;">188/20 - Autolinea 266: "TORINO/SALUGGIA (Stab. LivaNova)" Ulteriore modifica di percorso e fermate in Torrazza Piemonte/Saluggia</span>
+                   
+                   <a id="ContentPlaceHolderDefault_MainContent_GestioneNewsHome_20_lvDettagliNews_HyperLink1_2" href="http://www.sadem.it/it/allnews/18820-autolinea-266-torinosaluggia-(stab-livanova)-ulteriore-modifica-di-percorso-e-fermate-in-torrazza-piemontesaluggia.aspx" style="vertical-align:bottom;">
+                   <img src="/img/freccia2.png" alt="dettaglio notizia" title="dettaglio notizia" height="12" width="18" border="0"/></a>
+                </td>
+			
+            </tr>
+           <tr>
+                <td>
+                </td>
+            </tr>
+          
+        </table>
+	
+        
+
+</div>
+
+           <!-- <span><div><iframe src="http://estore.arriva.it/it/home/boxRicerca?cssname=box1" width="300" height="429" frameborder="0" scrolling="no"></iframe></div></span>-->
+          </div>
+        </div>
+</div>
+
+
+                
+                
+                <!--</div>-->
+
+
+
+                <div id="footer">
+
+                    <div id="ft">
+                        <!--<img src="/img/MasterImg/LogoAcis.png" border="0" alt="logo_ancis" alt="logo_acis"/>-->
+                        <img src="/media/631799/logo_ancis_accredia_2020.jpg" border="0" alt="logo_ancis" alt="logo_acis" />
+                    </div>
+
+
+
+
+                    <div id="logo3">
+
+                        <center>
+				  <p><span style="color:#78787A;font-family:Arial;FONT-SIZE: 8pt;"><strong>SADEM S.p.A.</strong></span>
+         		  <span style="color:#999999;font-family:Arial;FONT-SIZE: 8pt;"> 10095 Grugliasco (TO) - Via della Repubblica, 14 - Tel (+39) 011 3000611<br/>
+          		  Cod. Fisc. e P.IVA 00471480012 - REA Torino n°166925 - C.S. euro 2.080.000,00 i.v.<br/>
+					  Società a socio unico - Soggetta all'attività di direzione e coordinamento di <a href="http://www.arriva.it/" style="color:#00becd">Arriva Italia S.r.l.</a></span></p>
+		   </center>
+
+                    </div>
+
+                    <div id="nV">
+                        <a href='/it/prodotti/servizi-al-cliente/contatti.aspx' >
+			  						
+						 <!--<img src="/img/MasterImg/numeroVerde.png" border="0" alt="numero_verde" />-->
+							<img src="/media/941534/Numero_Verde_SADEM.png" border="0" alt="numero_verde" height="80" /></a>
+                    </div>
+                    <div id="footer-end" align="center">
+                        <a href= '/it/notelegali.aspx' >
+                        Note Legali e Privacy
+                        </a> | 
+      
+                       
+
+                        <a href="http://www.cittametropolitana.torino.it/" target="_blank">
+                            Città Metropolitana di Torino
+                            |</a>
+                        <a href="http://www.regione.piemonte.it/" target="_blank">
+                            Regione Piemonte
+                            | </a>
+                        <a href=" http://www.mtm.torino.it/it" target="_blank">
+                            Agenzia per la Mobilità Piemontese
+                            | </a>
+                        <a  href='/it/prodotti/servizi-al-cliente/contatti.aspx'>
+                        Contattaci
+                        </a> | 
+		
+                       
+
+                        <a  href='/it/Accessibility.aspx'>
+                        Accessibility</a> 
+						<!--| 
+      
+                       
+
+                        <a href="/">Disclaimers</a>-->
+
+                    </div>
+
+                </div>
+            </div>
+        
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+</div></form>
+        <div id="mainLoader" class="loader" style="display: block"></div>
+        <div id="overlay"></div>
+        <div id="cookies" class="cookieMain">
+            <div>Cliccando su "OK" acconsenti all'uso dei cookie. Se vuoi saperne di più o negare il consenso a tutti o ad alcuni cookie</div>
+            <div id="clickHere">Clicca qui</div>
+            <div id="cookieOK">Ok</div>
+        </div>
+    </body>
+    </html>
+
+

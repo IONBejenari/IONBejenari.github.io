@@ -1,0 +1,3281 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie6" lang="it"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7" lang="it"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8" lang="it"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9" lang="it"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="it"> <!--<![endif]-->
+<head>
+    <!-- to fix SearchPhp Crawler problem parsing html data -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- META VIEWPORT -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!--// META VIEWPORT -->
+
+    <!-- FAVICON -->
+    <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon" />
+    <!--// FAVICON -->
+
+    <!-- STYLES -->
+    <link rel="stylesheet" type="text/css" title="default" href="/assets/css/screen.css" />
+    <link rel="alternate stylesheet" type="text/css" title="high-readability" href="/assets/css/high-readability.css" />
+    <link rel="alternate stylesheet" type="text/css" title="text-only" href="/assets/css/text-only.css" />
+    <!--// STYLES -->
+
+    <!-- parking form integration -->
+      <link rel="stylesheet" href="/assets/js/lib/jquery-ui-1.11.4.custom/jquery-ui.min.css">
+      <link rel="stylesheet" href="/assets/js/lib/jquery-ui-1.11.4.custom/jquery-ui.theme.min.css">
+      <link rel="stylesheet" href="/assets/js/lib/jquery-ui-1.11.4.custom/jquery-ui-timepicker-addon.css">
+    <!-- parking form integration -->
+
+    <!-- JS -->
+    <script type="text/javascript">
+        // set lang per caricare il file json per la mappa destinazioni corretto
+        sagatLang = 'it';
+    </script>
+
+    <script type="text/javascript" src="/assets/js/env/conf.js"></script>
+    <script type="text/javascript" src="/assets/js/lib/custom.modernizr.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js?hl=it'></script>
+    <!--// JS -->
+
+
+<!-- parte dinamica START -->
+    <!-- META (SEO) -->
+    <title>Homepage | SAGAT</title>    <meta name="description" content="Aeroporto Internazionale di Caselle, gestito da SAGAT, include informazione voli, orari, servizi e negozi presenti in aeroporto." >
+<meta name="keywords" content="" >
+<meta name="og:description" content="Aeroporto Internazionale di Caselle, gestito da SAGAT, include informazione voli, orari, servizi e negozi presenti in aeroporto." >
+<meta name="og:image" content="/assets/img/shared/sagat.jpg" >    <!--// META (SEO) -->
+
+    <script type="text/javascript">
+        // window.ENV    = <--?php echo Website_Helpers_Json::toEnvSettingsArray($this->document)?-->;
+
+        function comboCollapse() {
+            // return;
+
+            setTimeout(function(){
+                return;
+
+                var comboModuli = document.getElementById("ext-comp-1002");
+                if (comboModuli == null) {
+                    comboCollapse();
+                }
+                // alert("comboModuli " + comboModuli.className);
+                // comboModuli.className = comboModuli.className + " x-panel-collapsed";
+                // comboModuli.classList.add("x-panel-collapsed");
+                // alert("comboModuli " + comboModuli.className);
+                // $( "ext-comp-1002" ).addClass("x-panel-collapsed");
+
+                // comboModuli.style.display = 'none';
+            }, 100);
+        }
+    </script>
+<!-- END -->
+
+
+    <!-- GOOGLE ANALYTICS -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', ENV.gaId, ENV.gaDomain);
+        ga('create', 'UA-48389824-2', {'name':'b'} );
+        ga('send', 'pageview');
+        ga('b.send', 'pageview');
+    </script>
+    <!--// GOOGLE ANALYTICS -->
+    <!-- Facebook Pixel Code -->
+    <script>
+
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '2295483093999942');
+        fbq('track', 'PageView');
+
+    </script>
+    <noscript>
+
+        <img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=2295483093999942&ev=PageView&noscript=1"
+        />
+
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+
+    <!-- GOOGLE Custom Search Engine -->
+    <!--
+    <script>
+        (function() {
+            var cx = '010778408315309056226:ebp70bjvwqq';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                '//www.google.com/cse/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+        })();
+    </script>
+    <gcse:search></gcse:search>
+     -->
+    <!--// GOOGLE Custom Search Engine -->
+
+
+    
+    <!-- per search autocomplete (header e pagina find) -->
+            
+            <link rel="stylesheet" href="/plugins/SearchPhp/static/css/jquery-autocomplete.css" type="text/css" />
+
+            
+    
+
+    <script>
+        var _prum = [['id', '5512be7babe53d4b34b40683'],
+            ['mark', 'firstbyte', (new Date()).getTime()]];
+        (function() {
+            var s = document.getElementsByTagName('script')[0]
+                , p = document.createElement('script');
+            p.async = 'async';
+            p.src = '//rum-static.pingdom.net/prum.min.js';
+            s.parentNode.insertBefore(p, s);
+        })();
+    </script>
+
+
+</head>
+<body id="home" onload="comboCollapse();">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WCK24D" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WCK24D');
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- header -->
+
+
+
+<!-- topbar -->
+<section id="top-bar">
+    <div class="container-fluid">
+        <div class="left">
+
+            <h2>
+                <a class="active" href="/it">TORINO AIRPORT</a>
+                <a  href="/it/sagat">SAGAT</a>
+            </h2>
+        </div>
+
+        <div class="right">
+            <div id="search">
+                <form method="get" action="/it/search">
+                    <input type="hidden" value="it" name="language" id="language" />
+                    <input type="hidden" name="search" id="s" value="true" />
+
+                    <input type="text" name="query_header" id="query_header" placeholder="Cerca" />
+                    <button type="submit"><i class="fa fa-search"></i></button>
+
+                    <script type="text/javascript">
+                        setTimeout(function() {
+                            // alert($("#query_header"));
+
+                            $( "#query_header" ).autocomplete({
+                                source: '/plugin/SearchPhp/frontend/autocomplete/?language=it'
+                            });
+
+                            /*
+                            var availableTags = [
+                                "ActionScript",
+                                "AppleScript",
+                                "Asp",
+                                "Scheme"
+                            ];
+                            $( "#query_header" ).autocomplete({
+                                source: availableTags
+                            });
+                            */
+
+                        }, 1000);
+                    </script>
+
+                </form>
+            </div>
+
+            
+                                    <a href="/it/sagat/area-stampa/news-e-comunicati/comunicati-stampa" class="hidden-xs" target="_self" title="Press">Press</a>                                    <a href="https://twitter.com/torinoairport" class="hidden-xs" target="_blank" title="Canale Twitter">Canale Twitter</a>                                    <a href="https://www.facebook.com/AeroportoDiTorino" class="hidden-xs" target="_blank" title="Canale Facebook">Canale Facebook</a>                                    <a href="https://www.instagram.com/torino_airport/" class="hidden-xs" target="_blank" title="Canale Instagram">Canale Instagram</a>                
+            
+                            <a href="/it/newsletter" class="newsletter">NEWSLETTER<i class="fa fa-envelope-o"></i></a>
+            
+            <a href="#" class="change-style" data-rel="default" id="change-style-default">Grafica</a>
+            <a href="#" class="change-style" data-rel="high-readability" id="change-style-high-readability">Alta leggibilità</a>
+            <a href="#" class="change-style" data-rel="text-only" id="change-style-text-only">Solo testo</a>
+
+                            <a href="/en" class="change-language">Change language</a>
+            
+            <!-- icone social a data da destinarsi
+            <ul id="social">
+                
+                    <li class="instagram">
+                        <a href="" target="_blank">
+                            <i class="fa fa-instagram"></i>
+                        </a>
+                    </li>
+                    <li class="facebook">
+                        <a href="" target="_blank">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </li>
+                    <li class="twitter">
+                        <a href="" target="_blank">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                    </li>
+
+                            </ul>
+            -->
+
+            <!--
+            <a href="#">Change Language</a>
+            <a href="#">Alta leggibilità</a>
+            <a href="#">Solo Testo</a>
+
+            <a href="#">NEWSLETTER<i class="fa fa-envelope-o"></i></a>
+
+            <ul id="social">
+                <li class="instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+                <li class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                <li class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
+            </ul>
+            -->
+        </div>
+    </div>
+</section>
+<!-- /topbar -->
+
+<!-- header -->
+<header>
+    <div class="container-fluid">
+        <div class="left">
+            <h1>
+
+                                    <a href="/it">
+                        <img src="/assets/img/shared/logo.png" alt="">
+                        <span>TORINO AIRPORT</span>
+                    </a>
+                
+            </h1>
+        </div>
+        <div class="right">
+            <a href="#" class="expand-menu">
+                <span>MENU</span>
+                <i class="fa fa-bars"></i>
+                <i class="fa fa-times"></i>
+                <hr /><hr />
+            </a>
+        </div>
+        <nav>
+            <div class="wrap">
+
+                
+                                            <div id="box-1" class="box">
+                    
+                            <div class="title">
+                                <h3>TO FLY</h3>
+                                <p>tofly</p>
+                            </div>
+                            <div class="group">
+
+                                
+                                    <h4>Voli</h4>
+                                    <ul>
+
+                                                                                    <li>
+                                                <a href="/it/tofly/voli/meteo">
+                                                    Meteo                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tofly/voli/orario-generale">
+                                                    Orario generale                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tofly/voli/partenze-arrivi">
+                                                    Partenze/Arrivi                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tofly/voli/mappa-destinazioni">
+                                                    Mappa destinazioni                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tofly/voli/compagnie-aeree">
+                                                    Compagnie aeree                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                                    <h4>Informazioni utili per il volo</h4>
+                                    <ul>
+
+                                                                                    <li>
+                                                <a href="/it/tofly/informazioni-utili-per-il-volo/carta-diritti-passeggero">
+                                                    Carta diritti passeggero                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tofly/informazioni-utili-per-il-volo/informazioni-bagagli">
+                                                    Informazioni bagagli                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tofly/informazioni-utili-per-il-volo/informazioni-animali-volo">
+                                                    Informazioni animali volo                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tofly/informazioni-utili-per-il-volo/sicurezza-aeroportuale">
+                                                    Sicurezza aeroportuale                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tofly/informazioni-utili-per-il-volo/sanita-aerea">
+                                                    Sanità aerea                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tofly/informazioni-utili-per-il-volo/passeggeri-a-ridotta-mobilita">
+                                                    Passeggeri a ridotta mobilità                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/autismo">
+                                                    Autismo                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tofly/informazioni-utili-per-il-volo/qualita">
+                                                    Qualità                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tofly/informazioni-utili-per-il-volo/rumore-aeroportuale">
+                                                    Rumore Aeroportuale                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                                    <h4>Servizi</h4>
+                                    <ul>
+
+                                                                                    <li>
+                                                <a href="/it/tofly/servizi/bagagli-smarriti">
+                                                    Bagagli smarriti                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tofly/servizi/oggetti-smarriti">
+                                                    Oggetti smarriti                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tofly/servizi/biglietteria-aerea-e-servizi-aggiuntivi">
+                                                    Biglietteria aerea e servizi aggiuntivi                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tofly/servizi/servizi-executive">
+                                                    Servizi executive                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tofly/servizi/faq">
+                                                    FAQ                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                            </div>
+                        </div>
+                    
+                                            <div id="box-3" class="box">
+                    
+                            <div class="title">
+                                <h3>TO MOVE</h3>
+                                <p>tomove</p>
+                            </div>
+                            <div class="group">
+
+                                
+                                    <h4>Trasporti e parcheggi</h4>
+                                    <ul>
+
+                                                                                    <li>
+                                                <a href="/it/tomove/trasporti-e-parcheggi/in-auto">
+                                                    In auto                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tomove/trasporti-e-parcheggi/in-taxi">
+                                                    In taxi                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tomove/trasporti-e-parcheggi/parcheggi">
+                                                    Parcheggiare in Aeroporto                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tomove/trasporti-e-parcheggi/richiesta-fattura-parcheggi">
+                                                    Richiesta fattura parcheggi                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tomove/trasporti-e-parcheggi/in-treno">
+                                                    In treno                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tomove/trasporti-e-parcheggi/in-bus">
+                                                    In bus                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tomove/trasporti-e-parcheggi/in-bus-ecotour">
+                                                    Eco-city-tour                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tomove/trasporti-e-parcheggi/accessibilita">
+                                                    Accessibilità                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tomove/trasporti-e-parcheggi/autonoleggi">
+                                                    Autonoleggi                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tomove/trasporti-e-parcheggi/car-sharing">
+                                                    Car sharing                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                                    <h4>Turismo</h4>
+                                    <ul>
+
+                                                                                    <li>
+                                                <a href="/it/tomove/turismo/prenota-camera">
+                                                    Prenota camera                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                            </div>
+                        </div>
+                    
+                                            <div id="box-2" class="box">
+                    
+                            <div class="title">
+                                <h3>TO LIVE</h3>
+                                <p>tolive</p>
+                            </div>
+                            <div class="group">
+
+                                
+                                    <h4>News e Servizi</h4>
+                                    <ul>
+
+                                                                                    <li>
+                                                <a href="/it/tolive/news-e-servizi/torino-airport-pass">
+                                                    Torino Airport Pass                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tolive/news-e-servizi/fast-track">
+                                                    Fast Track                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tolive/news-e-servizi/piemonte-lounge">
+                                                    Piemonte Lounge                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tolive/news-e-servizi/baby-lounge">
+                                                    Baby Lounge                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tolive/news-e-servizi/bookcrossing">
+                                                    BookCrossing in Aeroporto                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tolive/news-e-servizi/app-torino-airport">
+                                                    Torino Airport App                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tolive/news-e-servizi/cus-torino">
+                                                    Postazione CUS Torino per il benessere in volo                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tolive/news-e-servizi/sale-culto">
+                                                    Sale di Culto                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tolive/news-e-servizi/biopharma-farmacia">
+                                                    Biopharma-farmacia                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tolive/news-e-servizi/crai">
+                                                    Crai in Aeroporto                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tolive/news-e-servizi/sala-fumatori">
+                                                    Wi-fi in Aeroporto                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tolive/news-e-servizi/wi-fi-in-aeroporto">
+                                                    Sala fumatori                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tolive/news-e-servizi/informativa-coronavirus">
+                                                    Informativa Coronavirus                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tolive/news-e-servizi/covid-test-point">
+                                                    Covid Test Point                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tolive/news-e-servizi/emergenza-coronavirus-faq">
+                                                    Emergenza Coronavirus FAQ                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                                    <h4>Mappa e Negozi</h4>
+                                    <ul>
+
+                                                                                    <li>
+                                                <a href="/it/tolive/mappa-e-negozi/ristoranti-e-bar">
+                                                    Ristoranti e bar                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/tolive/mappa-e-negozi/negozi-e-servizi">
+                                                    Negozi e servizi                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                            </div>
+                        </div>
+                    
+
+
+
+                <!-- press area -->
+                
+                        <div class="box box-custom">
+
+                            <div class="title">
+                                <h3>Area Stampa</h3>
+                                <p></p>
+                            </div>
+                            <div class="group">
+
+                                
+                                    <h4>News e comunicati</h4>
+                                    <ul>
+
+                                                                                    <li>
+                                                <a href="/it/sagat/area-stampa/news-e-comunicati/news">
+                                                    News                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/sagat/area-stampa/news-e-comunicati/comunicati-stampa">
+                                                    Comunicati stampa                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="/it/sagat/area-stampa/news-e-comunicati/cenni-storici">
+                                                    Cenni-storici                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                            </div>
+                        </div>
+                
+
+
+
+
+            </div>
+
+            <div class="wrap">
+            </div>
+
+        </nav>
+    </div>
+</header>
+<!-- /header --><!--// header -->
+
+<!-- subheader - se presente -->
+<!--// subheader -->
+
+<!-- page content ================================================================================================== -->
+
+
+<!-- slideshow -->
+
+
+    <section id="slideshow">
+        <div class="flexslider">
+
+            
+            <ul class="slides">
+
+                                
+                <li>
+                    
+                    <a href="" target="_self" >
+                        <img src="/sag-home-sito-1920x600.jpg" title="Slideshow img 1" class="hidden-xs" alt="Slide 1" />                    </a>
+
+                    <img src="/sag-mobile-640x350.jpg" title="Slideshow img mobile 1" class="visible-xs" alt="Slide 1" />
+                    <div class="caption visible-xs">
+                        <h3></h3>
+                        <p>TORINO BEST AIRPORT</p>
+
+                        <a href="" target="_self" class="scopri">
+                             <i class="fa fa-caret-right"></i>
+                        </a>
+                    </div>
+
+                                                        </li>
+
+                                
+                <li>
+                    
+                    <a href="https://www.aeroportoditorino.it/to-live/documenti-covid/autodichiarazione-covid-19_pax-partenza_23jun20.pdf" target="_blank" >
+                        <img src="/banner_01_3.jpg" title="Slideshow img 2" class="hidden-xs" alt="Slide 2" />                    </a>
+
+                    <img src="/banner_mobile_2.jpg" title="Slideshow img mobile 2" class="visible-xs" alt="Slide 2" />
+                    <div class="caption visible-xs">
+                        <h3>Ognuno protegge Tutti</h3>
+                        <p>Arriva in anticipo e con l'autocertificazione compilata</p>
+
+                        <a href="https://www.aeroportoditorino.it/to-live/documenti-covid/autodichiarazione-covid-19_pax-partenza_23jun20.pdf" target="_blank" class="scopri">
+                             <i class="fa fa-caret-right"></i>
+                        </a>
+                    </div>
+
+                                                        </li>
+
+                
+            </ul>
+
+            
+        </div>
+    </section>
+
+
+<!-- /slideshow -->
+
+<!-- SkyScanner Widget -->
+<div class="skysca">
+    <script type="text/javascript" src="//whitelabel.skyscanner.net/scripts/widget/sswidget.load.v1.min.js?host=flights.aeroportoditorino.it&redirect=http://flights.aeroportoditorino.it&product=flights&type=large&deferred=false&language=it-IT&newWindow=true&origin=TRN&destination=NAPL"></script>
+</div>
+<!-- /SkyScanner Widget -->
+
+
+<!-- block tab -->
+<div id="type-tab" role="tabpanel">
+
+
+    
+        <ul class="nav nav-tabs container-fluid" role="tablist">
+            <li role="presentation" class="active">
+                <a href="#parto" aria-controls="parto" role="tab" data-toggle="tab">
+                    <i class="sagat-icon plane"></i>
+          <span>
+            <strong>parto</strong>
+            <span>Pianifica il tuo viaggio</span>
+          </span>
+                </a>
+            </li>
+            <li role="presentation">
+                <a href="#arrivo" aria-controls="arrivo" role="tab" data-toggle="tab">
+                    <i class="sagat-icon plane_down"></i>
+          <span>
+            <strong>arrivo</strong>
+            <span>Inizia da qui a scoprire Torino</span>
+          </span>
+                </a>
+            </li>
+            <li role="presentation">
+                <a href="#accompagno" aria-controls="accompagno" role="tab" data-toggle="tab">
+                    <i class="sagat-icon car"></i>
+          <span>
+            <strong>accompagno</strong>
+            <span>Una breve sosta all'Aeroporto</span>
+          </span>
+                </a>
+            </li>
+        </ul>
+
+    
+
+
+    <div class="tab-content">
+
+        
+        <div role="tabpanel" class="tab-pane fade in active" id="parto">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="box box-to-fly">
+                            <div class="block-title">
+                                <h2>TO FLY</h2>
+                                <div class="detail">3,0°C | 37,4°F <i class="sagat-icon sagat-icon nuvoloso"></i></div>
+                            </div>
+
+                            <div class="block-content">
+                                <h3>orario voli</h3>
+                                <div class="tabella-orari" role="tabpanel">
+                                                                        <ul class="nav nav-tabs" role="tablist">
+                                        <li role="presentation" class="active"><a href="#partenze1" aria-controls="partenze1" role="tab" data-toggle="tab"><i class="sagat-icon arrow_up_bold"></i>Partenze</a></li>
+                                        <li role="presentation"><a href="#arrivi1" aria-controls="arrivi1" role="tab" data-toggle="tab"><i class="sagat-icon arrow_down_bold"></i>Arrivi</a></li>
+                                        <!-- <li role="presentation"><a href="#skyscanner1" aria-controls="skyscanner1" role="tab" data-toggle="tab">prenota_voli</a></li> -->
+                                    </ul>
+                                    <div class="tab-content">
+                                        <div role="tabpanel" class="tab-pane fade in active" id="partenze1">
+
+                                            <ul>
+                                                <li class="title">
+                                                    <span class="data">Data</span>
+                                                    <span class="ora">Ora</span>
+                                                    <span class="destinazione">Destinazione</span>
+                                                    <span class="volo">Volo</span>
+                                                </li>
+
+                                                                                                    <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">08:20</span>
+                                            <span class="destinazione">
+                                             <strong>PALERMO</strong>
+                                            </span>
+                                                            <span class="volo">FR4917</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">11:40</span>
+                                            <span class="destinazione">
+                                             <strong>AMSTERDAM</strong>
+                                            </span>
+                                                            <span class="volo">KL1556</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">13:05</span>
+                                            <span class="destinazione">
+                                             <strong>BARI</strong>
+                                            </span>
+                                                            <span class="volo">FR8717</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">13:05</span>
+                                            <span class="destinazione">
+                                             <strong>CATANIA</strong>
+                                            </span>
+                                                            <span class="volo">FR1030</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">15:15</span>
+                                            <span class="destinazione">
+                                             <strong>ROMA Fiumicino</strong>
+                                            </span>
+                                                            <span class="volo">AZ1428</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">21:45</span>
+                                            <span class="destinazione">
+                                             <strong>LAMEZIA TERME</strong>
+                                            </span>
+                                                            <span class="volo">FR6860</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                </ul>
+
+                                        </div>
+                                        <div role="tabpanel" class="tab-pane fade" id="arrivi1">
+
+                                            <ul>
+                                                <li class="title">
+                                                    <span class="data">Data</span>
+                                                    <span class="ora">Ora</span>
+                                                    <span class="destinazione">Provenienza</span>
+                                                    <span class="volo">Volo</span>
+                                                </li>
+
+                                                                                                    <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">07:55</span>
+                                            <span class="destinazione">
+                                             <strong>PALERMO</strong>
+                                            </span>
+                                                            <span class="volo">FR4916</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">11:10</span>
+                                            <span class="destinazione">
+                                             <strong>AMSTERDAM</strong>
+                                            </span>
+                                                            <span class="volo">KL1555</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">12:40</span>
+                                            <span class="destinazione">
+                                             <strong>BARI</strong>
+                                            </span>
+                                                            <span class="volo">FR8716</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">12:40</span>
+                                            <span class="destinazione">
+                                             <strong>CATANIA</strong>
+                                            </span>
+                                                            <span class="volo">FR1020</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">14:30</span>
+                                            <span class="destinazione">
+                                             <strong>ROMA Fiumicino</strong>
+                                            </span>
+                                                            <span class="volo">AZ1417</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">18:15</span>
+                                            <span class="destinazione">
+                                             <strong>KYIV Boryspil</strong>
+                                            </span>
+                                                            <span class="volo">7W7771</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                </ul>
+
+                                        </div>
+                                      <!--
+                                      <div role="tabpanel" class="tab-pane fade" id="skyscanner1">
+                                        <iframe src="/static/skyscanner/widget-it.html" frameborder="0" style="height: 510px; width: 100%;"></iframe>
+                                      </div>
+                                      -->
+                                    </div>
+
+                                    <h3 class="title-table">
+                                        Orari di volo aggiornati alle&nbsp;01:02                                    </h3>
+
+                                </div>
+
+                                
+
+    <div class="row-icon  orange " >
+        <a href="/it/tofly/voli/partenze-arrivi?orario=oggi" target="_self">
+            <span class="icon">
+                <i class="sagat-icon clock"></i>
+            </span>
+            <span class="text">
+                <strong>Tutte le partenze di oggi</strong>
+                            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+
+
+    <div class="row-icon  orange " >
+        <a href="/it/tofly/voli/partenze-arrivi?orario=domani&amp;set=partenze" target="_self">
+            <span class="icon">
+                <i class="sagat-icon clock"></i>
+            </span>
+            <span class="text">
+                <strong>Tutte le partenze&nbsp;di domani</strong>
+                            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+
+
+    <div class="row-icon  orange " >
+        <a href="/it/tofly/voli/orario-generale" target="_self">
+            <span class="icon">
+                <i class="sagat-icon clock"></i>
+            </span>
+            <span class="text">
+                <strong>ORARIO GENERALE</strong>
+                Controlla gli orari di tutti i voli            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+
+                                <!--
+                              <div class="row-icon orange">
+                                <a href="#">
+                                  <span class="icon"><i class="sagat-icon clock"></i></span>
+                                  <span class="text">
+                                    <strong>ORARIO GENERALE</strong>
+                                    Controlla gli orari di tutti i voli
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                              -->
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <div class="box box-to-move">
+                            <div class="block-title">
+                                <h2>TO MOVE</h2>
+                                <div class="detail">45.1917579 N ; 7.6427232 E <i class="sagat-icon map_pin"></i></div>
+                            </div>
+                            <div class="block-content">
+
+                                <h3>PARCHEGGI AEROPORTO</h3>
+
+                                
+
+    <div class="row-icon  green " >
+        <a href="https://ecom.aeroportoditorino.it/park/index/booking" target="_blank">
+            <span class="icon">
+                <i class="sagat-icon letter_p"></i>
+            </span>
+            <span class="text">
+                <strong>Calcola offerta!</strong>
+                Acquisto Parcheggi Ufficiali Aeroporto            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+                                <!--
+                              <div class="row-icon green">
+                                <a href="#">
+                                  <span class="icon"><i class="sagat-icon letter_p"></i></span>
+                                  <span class="text">
+                                    <strong>MAPPA DEI PARCHEGGI</strong>
+                                    Scopri tariffe e prenota
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                              -->
+
+                                <h3>quanto costa parcheggiare in Aeroporto?</h3>
+                                
+
+    <div class="row-icon  green " >
+        <a href="https://www.aeroportoditorino.it/it/tomove/trasporti-e-parcheggi/parcheggi/mappa-e-tariffe" target="_blank">
+            <span class="icon">
+                <i class="sagat-icon letter_p"></i>
+            </span>
+            <span class="text">
+                <strong>Tutte le tariffe offline</strong>
+                Mappa e tariffe             </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+                                <!--
+                              <div class="row-icon green">
+                                <a href="#">
+                                  <span class="icon"><i class="sagat-icon car"></i></span>
+                                  <span class="text">
+                                    <strong>INDICAZIONI STRADALI</strong>
+                                    Raggiungi l'aeroporto in auto
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                              -->
+
+                                <div>
+                                    
+
+    <a href="https://www.aeroportoditorino.it/it/tomove/trasporti-e-parcheggi/parcheggi/mappa-e-tariffe" target="_blank">
+        <img src="/to-move/parking/4dic_sag_mappa-parcheggi.jpg" title="Image" class="img-responsive rounded-medium margin-up-down" alt="" />    </a>
+
+                                    <!--
+                                  <a href="#"><img class="rounded" src="assets/img/home/sagat-map.jpg" alt=""></a>
+                                  -->
+                                </div>
+                                <div class="border margin-up"></div>
+
+                                
+
+        <div class="row-circle-icon">
+
+        
+                    <div class="third">
+
+                        
+            <a href="/it/tomove/trasporti-e-parcheggi/in-bus" target="_self">
+                <i class="sagat-icon bus"></i>
+                <strong>IN AUTOBUS</strong>
+            </a>
+
+                                </div>
+                    <div class="third">
+
+                        
+            <a href="/it/tomove/trasporti-e-parcheggi/in-treno" target="_self">
+                <i class="sagat-icon train"></i>
+                <strong>IN TRENO</strong>
+            </a>
+
+                                </div>
+                    <div class="third">
+
+                        
+            <a href="http://www.aeroportoditorino.it/it/tomove/trasporti-e-parcheggi/in-auto" target="_blank">
+                <i class="sagat-icon side_car"></i>
+                <strong>IN AUTO</strong>
+            </a>
+
+                                </div>
+        
+    </div>
+    
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <div class="box box-to-live">
+                            <div class="block-title">
+                                <h2>TO LIVE</h2>
+                                <div class="detail">SHOPS ARE OPEN <i class="sagat-icon circular_clock"></i></div>
+                            </div>
+                            <div class="block-content">
+                                <h3>SERVIZI E INFORMAZIONI</h3>
+
+                                
+
+        <div class="row-circle-icon">
+
+        
+                    <div class="third">
+
+                        
+            <a href="/it/tolive/news-e-servizi/fast-track" target="_self">
+                <i class="fast-track"></i>
+                <strong>FAST TRACK</strong>
+            </a>
+
+                                </div>
+                    <div class="third">
+
+                        
+            <a href="/it/tolive/news-e-servizi/piemonte-lounge" target="_self">
+                <i class="sagat-icon person"></i>
+                <strong>PIEMONTE LOUNGE</strong>
+            </a>
+
+                                </div>
+                    <div class="third">
+
+                        
+            <a href="https://www.torinoairport.com/it/tolive/news-e-servizi/torino-airport-pass" target="_blank">
+                <i class="torino-pass"></i>
+                <strong>TORINO AIRPORT PASS</strong>
+            </a>
+
+                                </div>
+        
+    </div>
+    
+                                <!--
+                              <div class="row-circle-icon">
+                                <div class="third">
+                                  <a href="#" class="fast-track">
+                                    <i></i>
+                                    <strong>ACQUISTA</strong>
+                                  </a>
+                                </div>
+                                <div class="third">
+                                  <a href="#" class="">
+                                    <i class="sagat-icon person"></i>
+                                    <strong>ACQUISTA</strong>
+                                  </a>
+                                </div>
+                                <div class="third">
+                                  <a href="#" class="torino-pass">
+                                    <i></i>
+                                    <strong>ACQUISTA</strong>
+                                  </a>
+                                </div>
+                              </div>
+                              -->
+
+                                <h3>INFORMAZIONI</h3>
+                                
+
+    <div class="row-icon  bordeaux " >
+        <a href="/it/tofly/servizi/servizi-executive" target="_self">
+            <span class="icon">
+                <i class="sagat-icon plane"></i>
+            </span>
+            <span class="text">
+                <strong>SERVIZI EXECUTIVE</strong>
+                I servizi VIP dell'Aeroporto di Torino            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+
+
+    <div class="row-icon  bordeaux " >
+        <a href="/it/tolive/mappa-e-negozi/ristoranti-e-bar" target="_self">
+            <span class="icon">
+                <i class="sagat-icon tazzina"></i>
+            </span>
+            <span class="text">
+                <strong>RISTORANTI E BAR</strong>
+                I luoghi per una piacevole pausa            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+
+
+    <div class="row-icon  bordeaux " >
+        <a href="/it/tolive/mappa-e-negozi/negozi-e-servizi" target="_self">
+            <span class="icon">
+                <i class="sagat-icon shopper"></i>
+            </span>
+            <span class="text">
+                <strong>NEGOZI</strong>
+                Il tuo shopping in aeroporto            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+
+                                <h3></h3>
+                                
+
+    <a href="http://www.salute.gov.it/viaggiatori" target="_blank">
+        <img src="/ita_3.jpg" title="Image" class="rounded contrast img-responsive" alt="" />    </a>
+
+
+                                <!--
+                                <a href="#"><img class="rounded contrast img-responsive" src="assets/img/home/banner/discount.png" alt=""></a>
+                                -->
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        
+        <div role="tabpanel" class="tab-pane fade " id="arrivo">
+            <div class="container-fluid">
+                <div class="row">
+
+                    <div class="col-sm-4">
+                        <div class="box box-to-fly">
+                            <div class="block-title">
+                                <h2>TO FLY</h2>
+                                <div class="detail">3,0°C | 37,4°F <i class="sagat-icon sagat-icon nuvoloso"></i></div>
+                            </div>
+                            <div class="block-content">
+                                <h3>ORARIO VOLI</h3>
+                                <div class="tabella-orari" role="tabpanel">
+                                    <ul class="nav nav-tabs" role="tablist">
+                                        <li role="presentation"><a href="#partenze2" aria-controls="partenze2" role="tab" data-toggle="tab"><i class="sagat-icon arrow_up_bold"></i>Partenze</a></li>
+                                        <li role="presentation" class="active"><a href="#arrivi2" aria-controls="arrivi2" role="tab" data-toggle="tab"><i class="sagat-icon arrow_down_bold"></i>Arrivi</a></li>
+                                    </ul>
+                                    <div class="tab-content">
+                                        <div role="tabpanel" class="tab-pane fade" id="partenze2">
+
+                                            <ul>
+                                                <li class="title">
+                                                    <span class="data">Data</span>
+                                                    <span class="ora">Ora</span>
+                                                    <span class="destinazione">Destinazione</span>
+                                                    <span class="volo">Volo</span>
+                                                </li>
+
+                                                                                                    <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">08:20</span>
+                                            <span class="destinazione">
+                                             <strong>PALERMO</strong>
+                                            </span>
+                                                            <span class="volo">FR4917</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">11:40</span>
+                                            <span class="destinazione">
+                                             <strong>AMSTERDAM</strong>
+                                            </span>
+                                                            <span class="volo">KL1556</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">13:05</span>
+                                            <span class="destinazione">
+                                             <strong>BARI</strong>
+                                            </span>
+                                                            <span class="volo">FR8717</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">13:05</span>
+                                            <span class="destinazione">
+                                             <strong>CATANIA</strong>
+                                            </span>
+                                                            <span class="volo">FR1030</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">15:15</span>
+                                            <span class="destinazione">
+                                             <strong>ROMA Fiumicino</strong>
+                                            </span>
+                                                            <span class="volo">AZ1428</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">21:45</span>
+                                            <span class="destinazione">
+                                             <strong>LAMEZIA TERME</strong>
+                                            </span>
+                                                            <span class="volo">FR6860</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                </ul>
+
+                                        </div>
+                                        <div role="tabpanel" class="tab-pane fade in active" id="arrivi2">
+
+                                            <ul>
+                                                <li class="title">
+                                                    <span class="data">Data</span>
+                                                    <span class="ora">Ora</span>
+                                                    <span class="destinazione">Provenienza</span>
+                                                    <span class="volo">Volo</span>
+                                                </li>
+
+                                                                                                    <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">07:55</span>
+                                            <span class="destinazione">
+                                             <strong>PALERMO</strong>
+                                            </span>
+                                                            <span class="volo">FR4916</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">11:10</span>
+                                            <span class="destinazione">
+                                             <strong>AMSTERDAM</strong>
+                                            </span>
+                                                            <span class="volo">KL1555</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">12:40</span>
+                                            <span class="destinazione">
+                                             <strong>BARI</strong>
+                                            </span>
+                                                            <span class="volo">FR8716</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">12:40</span>
+                                            <span class="destinazione">
+                                             <strong>CATANIA</strong>
+                                            </span>
+                                                            <span class="volo">FR1020</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">14:30</span>
+                                            <span class="destinazione">
+                                             <strong>ROMA Fiumicino</strong>
+                                            </span>
+                                                            <span class="volo">AZ1417</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">18:15</span>
+                                            <span class="destinazione">
+                                             <strong>KYIV Boryspil</strong>
+                                            </span>
+                                                            <span class="volo">7W7771</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                </ul>
+
+                                        </div>
+                                    </div>
+
+                                    <h3 class="title-table">
+                                        Orari di volo aggiornati alle&nbsp;01:02                                    </h3>
+                                </div>
+
+                                
+
+    <div class="row-icon  orange " >
+        <a href="/it/tofly/voli/partenze-arrivi?orario=oggi&amp;set=arrivi" target="_self">
+            <span class="icon">
+                <i class="sagat-icon clock"></i>
+            </span>
+            <span class="text">
+                <strong>Tutti gli&nbsp;arrivi di oggi</strong>
+                            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+
+
+    <div class="row-icon  orange " >
+        <a href="http://www.aeroportoditorino.it/it/tofly/voli/partenze-arrivi?orario=domani&amp;set=arrivi" target="_self">
+            <span class="icon">
+                <i class="sagat-icon clock"></i>
+            </span>
+            <span class="text">
+                <strong>Tutti gli arrivi di domani</strong>
+                            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+
+
+    <div class="row-icon  orange " >
+        <a href="/it/tofly/voli/orario-generale" target="_self">
+            <span class="icon">
+                <i class="sagat-icon clock"></i>
+            </span>
+            <span class="text">
+                <strong>ORARIO GENERALE</strong>
+                Controlla gli orari di tutti i voli            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+                                <!--
+                  <div class="row-icon orange">
+                    <a href="#">
+                      <span class="icon"><i class="sagat-icon clock"></i></span>
+                      <span class="text">
+                        <strong></strong>
+                                                </span>
+                      <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                    </a>
+                  </div>
+                  -->
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <div class="box box-to-move">
+                            <div class="block-title">
+                                <h2>TO MOVE</h2>
+                                <div class="detail">45.1917579 N ; 7.6427232 E <i class="sagat-icon map_pin"></i></div>
+                            </div>
+                            <div class="block-content">
+                                <h3>RAGGIUNGI LA TUA DESTINAZIONE</h3>
+
+                                
+
+    <div class="row-icon  green " >
+        <a href="/it/tomove/trasporti-e-parcheggi/autonoleggi" target="_self">
+            <span class="icon">
+                <i class="sagat-icon side_car"></i>
+            </span>
+            <span class="text">
+                <strong>AUTONOLEGGI</strong>
+                Tutte le aziende presenti            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+                                <!--
+                              <div class="row-icon border-bottom green">
+                                <a href="#">
+                                  <span class="icon"><i class="sagat-icon side_car"></i></span>
+                                  <span class="text">
+                                    <strong>NOLEGGIO AUTO E CAR SHARING</strong>
+                                   Scopri le offerte
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                              -->
+
+                                <div>
+                                    <br />
+                                    
+
+    <a href="/it/tomove/trasporti-e-parcheggi/in-auto" target="_self">
+        <img src="/sagat-map_new.jpg" title="Image" class="img-responsive rounded-medium margin-up-down" alt="" />    </a>
+
+                                    <!--
+                                  <a href="#"><img class="rounded" src="http://placehold.it/300x100" alt=""></a>
+                                  -->
+                                </div>
+
+                                
+
+        <div class="row-circle-icon">
+
+        
+                    <div class="third">
+
+                        
+            <a href="/it/tomove/trasporti-e-parcheggi/in-bus" target="_self">
+                <i class="sagat-icon bus"></i>
+                <strong>IN AUTOBUS</strong>
+            </a>
+
+                                </div>
+                    <div class="third">
+
+                        
+            <a href="/it/tomove/trasporti-e-parcheggi/in-treno" target="_self">
+                <i class="sagat-icon train"></i>
+                <strong>IN TRENO</strong>
+            </a>
+
+                                </div>
+                    <div class="third">
+
+                        
+            <a href="/it/tomove/trasporti-e-parcheggi/in-taxi" target="_self">
+                <i class="sagat-icon taxi"></i>
+                <strong>IN TAXI</strong>
+            </a>
+
+                                </div>
+        
+    </div>
+    
+                                <!--
+                              <div class="row-circle-icon">
+                                <div class="third">
+                                  <a href="#">
+                                    <i class="sagat-icon bus"></i>
+                                    <strong>IN AUTOBUS</strong>
+                                  </a>
+                                </div>
+                                <div class="third">
+                                  <a href="#">
+                                    <i class="sagat-icon train"></i>
+                                    <strong>IN TRENO</strong>
+                                  </a>
+                                </div>
+                                <div class="third">
+                                  <a href="#">
+                                    <i class="sagat-icon taxi"></i>
+                                    <strong>NOLEGGIO<br />AUTO</strong>
+                                  </a>
+                                </div>
+                              </div>
+                              -->
+
+                                
+
+    <div class="row-icon  green " >
+        <a href="https://www.aeroportoditorino.it/it/tomove/trasporti-e-parcheggi/parcheggi/mappa-e-tariffe" target="_blank">
+            <span class="icon">
+                <i class="sagat-icon letter_p"></i>
+            </span>
+            <span class="text">
+                <strong>Quanto costa parcheggiare a Caselle?</strong>
+                Tutte le tariffe!            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+                                <!--
+                              <div class="row-icon green">
+                                <a href="#">
+                                  <span class="icon"><i class="sagat-icon bus"></i></span>
+                                  <span class="text">
+                                    <strong>BUS LANGHE E ROERO</strong>
+                                    Orari e percorsi dell'autobus
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                              <div class="row-icon green">
+                                <a href="#">
+                                  <span class="icon"><i class="sagat-icon car"></i></span>
+                                  <span class="text">
+                                    <strong>TAXI E NCC</strong>
+                                    Orari e numeri utili
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                                -->
+
+                                <h3></h3>
+                                                                <!--
+                              <div class="row-icon green">
+                                <a href="#">
+                                  <span class="icon"><i class="sagat-icon letter_p"></i></span>
+                                  <span class="text">
+                                    <strong>MAPPA DEI PARCHEGGI</strong>
+                                    Aree di sosta dell'Aeroporto
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                                -->
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <div class="box box-to-live">
+                            <div class="block-title">
+                                <h2>TO LIVE</h2>
+                                <div class="detail">SHOPS ARE OPEN <i class="sagat-icon circular_clock"></i></div>
+                            </div>
+                            <div class="block-content">
+                                <h3>INFORMAZIONI</h3>
+                                
+
+    <div class="row-icon  bordeaux " >
+        <a href="/it/tolive/mappa-e-negozi/ristoranti-e-bar" target="_self">
+            <span class="icon">
+                <i class="sagat-icon tazzina"></i>
+            </span>
+            <span class="text">
+                <strong>SCOPRI I RISTORANTI E I BAR</strong>
+                            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+
+
+    <div class="row-icon  bordeaux " >
+        <a href="/it/tofly/servizi/oggetti-smarriti" target="_self">
+            <span class="icon">
+                <i class="fa fa-search"></i>
+            </span>
+            <span class="text">
+                <strong>OGGETTI SMARRITI</strong>
+                Contatti dell'ufficio            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+
+
+    <div class="row-icon  bordeaux " >
+        <a href="/it/tolive/news-e-servizi/crai" target="_self">
+            <span class="icon">
+                <i class="sagat-icon shopper"></i>
+            </span>
+            <span class="text">
+                <strong>SCOPRI IL SUPERMERCATO</strong>
+                Il primo CRAI dentro un Aeroporto            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+                                <!--
+                              <div class="row-icon bordeaux">
+                                <a href="#">
+                                  <span class="icon"><i class="sagat-icon map_pin"></i></span>
+                                  <span class="text">
+                                    <strong>MAPPA DELL'AEROPORTO</strong>
+                                    Guarda la mappa interattiva
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                              <div class="row-icon bordeaux">
+                                <a href="#">
+                                  <span class="icon"><i class="fa fa-wifi"></i></span>
+                                  <span class="text">
+                                    <strong>SERVIZIO WI-FI</strong>
+                                    Accedi al servizio gratuito
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                              <div class="row-icon border-bottom bordeaux">
+                                <a href="#">
+                                  <span class="icon"><i class="sagat-icon person"></i></span>
+                                  <span class="text">
+                                    <strong>PIEMONTE LOUNGE</strong>
+                                    Il tuo salotto in aeroporto
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                                -->
+
+                                
+
+        <div class="row-circle-icon">
+
+        
+                    <div class="half">
+
+                        
+            <a href="/it/tolive/news-e-servizi/wi-fi-in-aeroporto" target="_self">
+                <i class="fa fa-wifi"></i>
+                <strong>Wi-Fi</strong>
+            </a>
+
+                                </div>
+                    <div class="half">
+
+                        
+            <a href="/it/tomove/turismo/prenota-camera" target="_self">
+                <i class="sagat-icon map_pin"></i>
+                <strong>PRENOTA LA TUA CAMERA</strong>
+            </a>
+
+                                </div>
+        
+    </div>
+    
+                                <!--
+                              <div class="row-circle-icon">
+                                <div class="half">
+                                  <a href="#" class="fast-track">
+                                    <i></i>
+                                    <strong>ACQUISTA</strong>
+                                  </a>
+                                </div>
+                                <div class="half">
+                                  <a href="#" class="torino-pass">
+                                    <i></i>
+                                    <strong>ACQUISTA</strong>
+                                  </a>
+                                </div>
+                              </div>
+                              -->
+
+                                <h3></h3>
+                                
+
+    <a href="http://www.sadem.it/it/prodotti/collegamento-aeroporti/torino-torino-airport.aspx" target="_blank">
+        <img src="/home/banner-express_2019_airport-300x250.jpg" title="Image" class="rounded contrast img-responsive" alt="" />    </a>
+
+                                <!--
+                                <a href="#"><img class="rounded contrast img-responsive" src="assets/img/home/banner/discount.png" alt=""></a>
+                                -->
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        
+        <div role="tabpanel" class="tab-pane fade " id="accompagno">
+            <div class="container-fluid">
+                <div class="row">
+
+                    <div class="col-sm-4">
+                        <div class="box box-to-fly">
+                            <div class="block-title">
+                                <h2>TO FLY</h2>
+                                <div class="detail">3,0°C | 37,4°F <i class="sagat-icon sagat-icon nuvoloso"></i></div>
+                            </div>
+                            <div class="block-content">
+                                <h3>ORARIO VOLI</h3>
+                                <div class="tabella-orari" role="tabpanel">
+                                    <ul class="nav nav-tabs" role="tablist">
+                                        <li role="presentation" class="active"><a href="#partenze3" aria-controls="partenze3" role="tab" data-toggle="tab"><i class="sagat-icon arrow_up_bold"></i>Partenze</a></li>
+                                        <li role="presentation"><a href="#arrivi3" aria-controls="arrivi3" role="tab" data-toggle="tab"><i class="sagat-icon arrow_down_bold"></i>Arrivi</a></li>
+                                    </ul>
+                                    <div class="tab-content">
+                                        <div role="tabpanel" class="tab-pane fade in active" id="partenze3">
+
+                                            <ul>
+                                                <li class="title">
+                                                    <span class="data">Data</span>
+                                                    <span class="ora">Ora</span>
+                                                    <span class="destinazione">Destinazione</span>
+                                                    <span class="volo">Volo</span>
+                                                </li>
+
+                                                                                                    <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">08:20</span>
+                                            <span class="destinazione">
+                                             <strong>PALERMO</strong>
+                                            </span>
+                                                            <span class="volo">FR4917</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">11:40</span>
+                                            <span class="destinazione">
+                                             <strong>AMSTERDAM</strong>
+                                            </span>
+                                                            <span class="volo">KL1556</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">13:05</span>
+                                            <span class="destinazione">
+                                             <strong>BARI</strong>
+                                            </span>
+                                                            <span class="volo">FR8717</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">13:05</span>
+                                            <span class="destinazione">
+                                             <strong>CATANIA</strong>
+                                            </span>
+                                                            <span class="volo">FR1030</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">15:15</span>
+                                            <span class="destinazione">
+                                             <strong>ROMA Fiumicino</strong>
+                                            </span>
+                                                            <span class="volo">AZ1428</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">21:45</span>
+                                            <span class="destinazione">
+                                             <strong>LAMEZIA TERME</strong>
+                                            </span>
+                                                            <span class="volo">FR6860</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                </ul>
+
+                                        </div>
+                                        <div role="tabpanel" class="tab-pane fade" id="arrivi3">
+
+                                            <ul>
+                                                <li class="title">
+                                                    <span class="data">Data</span>
+                                                    <span class="ora">Ora</span>
+                                                    <span class="destinazione">Provenienza</span>
+                                                    <span class="volo">Volo</span>
+                                                </li>
+
+                                                                                                    <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">07:55</span>
+                                            <span class="destinazione">
+                                             <strong>PALERMO</strong>
+                                            </span>
+                                                            <span class="volo">FR4916</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">11:10</span>
+                                            <span class="destinazione">
+                                             <strong>AMSTERDAM</strong>
+                                            </span>
+                                                            <span class="volo">KL1555</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">12:40</span>
+                                            <span class="destinazione">
+                                             <strong>BARI</strong>
+                                            </span>
+                                                            <span class="volo">FR8716</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">12:40</span>
+                                            <span class="destinazione">
+                                             <strong>CATANIA</strong>
+                                            </span>
+                                                            <span class="volo">FR1020</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">14:30</span>
+                                            <span class="destinazione">
+                                             <strong>ROMA Fiumicino</strong>
+                                            </span>
+                                                            <span class="volo">AZ1417</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                        <li>
+                                                        <a href="/it/tofly/voli/partenze-arrivi?set=arrivi">
+                                                            <span class="data">30-11</span>
+                                                            <span class="ora">18:15</span>
+                                            <span class="destinazione">
+                                             <strong>KYIV Boryspil</strong>
+                                            </span>
+                                                            <span class="volo">7W7771</span>
+                                            <span class="icon">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span><br />
+                                            <span class="stato">
+                                                <i class="fa fa-file-text-o orange"></i>
+                                                 -                                            </span>
+                                                        </a>
+                                                    </li>
+                                                                                                </ul>
+
+                                        </div>
+                                    </div>
+
+                                    <h3 class="title-table">
+                                        Orari di volo aggiornati alle&nbsp;01:02                                    </h3>
+                                </div>
+
+                                
+
+    <div class="row-icon  orange " >
+        <a href="/it/tofly/voli/partenze-arrivi?orario=oggi" target="_self">
+            <span class="icon">
+                <i class="sagat-icon clock"></i>
+            </span>
+            <span class="text">
+                <strong>Tutti i voli di oggi</strong>
+                            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+
+
+    <div class="row-icon  orange " >
+        <a href="/it/tofly/voli/partenze-arrivi?orario=domani&amp;set=partenze-arrivi" target="_self">
+            <span class="icon">
+                <i class="sagat-icon clock"></i>
+            </span>
+            <span class="text">
+                <strong>Tutti i voli di domani</strong>
+                            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+
+
+    <div class="row-icon  orange " >
+        <a href="/it/tofly/voli/orario-generale" target="_self">
+            <span class="icon">
+                <i class="sagat-icon clock"></i>
+            </span>
+            <span class="text">
+                <strong>ORARIO GENERALE</strong>
+                Controlla gli orari di tutti i voli            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+                                <!--
+                              <div class="row-icon orange">
+                                <a href="#">
+                                  <span class="icon"><i class="sagat-icon clock"></i></span>
+                                  <span class="text">
+                                    <strong>ORARIO GENERALE</strong>
+                                    Controlla gli orari di tutti i voli
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                              -->
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <div class="box box-to-move">
+                            <div class="block-title">
+                                <h2>TO MOVE</h2>
+                                <div class="detail">45.1917579 N ; 7.6427232 E <i class="sagat-icon map_pin"></i></div>
+                            </div>
+                            <div class="block-content">
+                                <h3>PARCHEGGIA IN AEROPORTO</h3>
+                                
+
+    <div class="row-icon  green " >
+        <a href="https://www.aeroportoditorino.it/it/tomove/trasporti-e-parcheggi/parcheggi/mappa-e-tariffe" target="_blank">
+            <span class="icon">
+                <i class="sagat-icon letter_p"></i>
+            </span>
+            <span class="text">
+                <strong>Quanto costa parcheggiare in Aeroporto?</strong>
+                Mappa e Tariffe            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+                                <!--
+                              <div class="row-icon border-bottom green">
+                                <a href="#">
+                                  <span class="icon"><i class="sagat-icon side_car"></i></span>
+                                  <span class="text">
+                                    <strong>INDICAZIONI STRADALI</strong>
+                                    Raggiungi l'aeroporto in auto
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                              -->
+
+                                <div>
+                                    <br />
+                                    
+
+    <a href="/it/tomove/trasporti-e-parcheggi/in-auto" target="_self">
+        <img src="/sagat-map_new.jpg" title="Image" class="img-responsive rounded-medium margin-up-down" alt="" />    </a>
+
+                                    <!--
+                                  <a href="#"><img class="rounded" src="assets/img/home/sagat-map.jpg" alt=""></a>
+                                  -->
+                                </div>
+
+                                
+
+        <div class="row-circle-icon">
+
+        
+                    <div class="third">
+
+                        
+            <a href="/it/tomove/trasporti-e-parcheggi/in-bus" target="_self">
+                <i class="sagat-icon bus"></i>
+                <strong>IN AUTOBUS</strong>
+            </a>
+
+                                </div>
+                    <div class="third">
+
+                        
+            <a href="/it/tomove/trasporti-e-parcheggi/in-treno" target="_self">
+                <i class="sagat-icon train"></i>
+                <strong>IN TRENO</strong>
+            </a>
+
+                                </div>
+                    <div class="third">
+
+                        
+            <a href="https://ecom.aeroportoditorino.it/park/index/booking" target="_blank">
+                <i class="sagat-icon side_car"></i>
+                <strong>ACQUISTA IL PARCHEGGIO</strong>
+            </a>
+
+                                </div>
+        
+    </div>
+    
+                                <!--
+                              <div class="row-circle-icon">
+                                <div class="third">
+                                  <a href="#">
+                                    <i class="sagat-icon bus"></i>
+                                    <strong>IN AUTOBUS</strong>
+                                  </a>
+                                </div>
+                                <div class="third">
+                                  <a href="#">
+                                    <i class="sagat-icon train"></i>
+                                    <strong>IN TRENO</strong>
+                                  </a>
+                                </div>
+                                <div class="third">
+                                  <a href="#">
+                                    <i class="sagat-icon taxi"></i>
+                                    <strong>NOLEGGIO<br />AUTO</strong>
+                                  </a>
+                                </div>
+                              </div>
+                              -->
+
+                                <h3>ACQUISTO DIRETTO DEL PARCHEGGIO IN AEROPORTO</h3>
+                                
+
+    <div class="row-icon  green " >
+        <a href="/it/tomove/trasporti-e-parcheggi/parcheggi/mappa-e-tariffe" target="_self">
+            <span class="icon">
+                <i class="sagat-icon letter_p"></i>
+            </span>
+            <span class="text">
+                <strong>Scopri la mappa dei parcheggi in Aerporto</strong>
+                            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+                                <!--
+                              <div class="row-icon green">
+                                <a href="#">
+                                  <span class="icon"><i class="sagat-icon letter_p"></i></span>
+                                  <span class="text">
+                                    <strong>MAPPA DEI PARCHEGGI</strong>
+                                    Aree di sosta dell'Aeroporto
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                                -->
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <div class="box box-to-live">
+                            <div class="block-title">
+                                <h2>TO LIVE</h2>
+                                <div class="detail">SHOPS ARE OPEN <i class="sagat-icon circular_clock"></i></div>
+                            </div>
+                            <div class="block-content">
+                                <h3>INFORMAZIONI</h3>
+                                
+
+    <div class="row-icon  bordeaux " >
+        <a href="/it/tolive/mappa-e-negozi/negozi-e-servizi" target="_self">
+            <span class="icon">
+                <i class="sagat-icon shopper"></i>
+            </span>
+            <span class="text">
+                <strong>NEGOZI</strong>
+                Il tuo shopping in Aeroporto            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+
+
+    <div class="row-icon  bordeaux " >
+        <a href="/it/tolive/mappa-e-negozi/ristoranti-e-bar" target="_self">
+            <span class="icon">
+                <i class="sagat-icon tazzina"></i>
+            </span>
+            <span class="text">
+                <strong>RISTORANTI E BAR</strong>
+                I luoghi per una piacevole pausa            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+
+
+    <div class="row-icon  bordeaux " >
+        <a href="/it/tomove/turismo/prenota-camera" target="_self">
+            <span class="icon">
+                <i class="torino-pass"></i>
+            </span>
+            <span class="text">
+                <strong>PER LA TUA PARTENZA DA TORINO</strong>
+                Scopri volaTORINO Pass            </span>
+            <span class="left-icon">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+
+                                <!--
+                              <div class="row-icon bordeaux">
+                                <a href="#">
+                                  <span class="icon"><i class="sagat-icon map_pin"></i></span>
+                                  <span class="text">
+                                    <strong>NEGOZI</strong>
+                                    Il tuo shopping in aeroporto
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                              <div class="row-icon bordeaux">
+                                <a href="#">
+                                  <span class="icon"><i class="fa fa-wifi"></i></span>
+                                  <span class="text">
+                                    <strong>RISTORANTI E BAR</strong>
+                                    I luoghi per una piacevole pausa
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                              <div class="row-icon border-bottom bordeaux">
+                                <a href="#">
+                                  <span class="icon"><i class="sagat-icon person"></i></span>
+                                  <span class="text">
+                                    <strong>INFORMAZIONI TURISTICHE</strong>
+                                    Accedi al servizio gratuito
+                                  </span>
+                                  <span class="left-icon"><i class="fa fa-angle-right"></i></span>
+                                </a>
+                              </div>
+                              -->
+
+                                
+
+        <div class="row-circle-icon">
+
+        
+                    <div class="half">
+
+                        
+            <a href="/it/tolive/news-e-servizi/wi-fi-in-aeroporto" target="_blank">
+                <i class="fa fa-wifi"></i>
+                <strong>Wi-Fi</strong>
+            </a>
+
+                                </div>
+                    <div class="half">
+
+                        
+            <a href="/it/tomove/turismo/prenota-camera" target="_self">
+                <i class="sagat-icon map_pin"></i>
+                <strong>PRENOTA LA TUA CAMERA</strong>
+            </a>
+
+                                </div>
+        
+    </div>
+    
+                                <!--
+                              <div class="row-circle-icon">
+                                <div class="half">
+                                  <a href="#" class="fast-track">
+                                    <i></i>
+                                    <strong>INFOPOINT<br />EXPO</strong>
+                                  </a>
+                                </div>
+                                <div class="half">
+                                  <a href="#" class="torino-pass">
+                                    <i></i>
+                                    <strong>MOSTRA MUSEO<br />
+                                    DEL CINEMA</strong>
+                                  </a>
+                                </div>
+                              </div>
+                                -->
+
+                                <h3></h3>
+                                                                <!--
+                              <a href="#"><img class="rounded contrast img-responsive" src="assets/img/home/banner/discount.png" alt=""></a>
+                                -->
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<!-- /block tab -->
+
+
+
+<!-- block carousel -->
+<section class="carousel">
+    <div class="container-fluid">
+
+        
+            <h4>Servizi ai Passeggeri</h4>
+                        <div class="flexslider">
+                <ul class="slides">
+
+                                        
+                        <li>
+                            
+                            <a href="/it/tofly/servizi/biglietteria-aerea-e-servizi-aggiuntivi" target="_self">
+                                <img width="165" height="130" title="Carousel img 1" alt="Carousel img 1" src="/website/var/tmp/image-thumbnails/0/345/thumb__auto_3b76a8d45279a7522b65da820abf30bd/02_biglietteria.png" srcset="/website/var/tmp/image-thumbnails/0/345/thumb__auto_3b76a8d45279a7522b65da820abf30bd/02_biglietteria.png 1x, /website/var/tmp/image-thumbnails/0/345/thumb__auto_3b76a8d45279a7522b65da820abf30bd/02_biglietteria@2x.png 2x" />                            </a>
+                            <h4>
+                                <a href="/it/tofly/servizi/biglietteria-aerea-e-servizi-aggiuntivi" target="_self">
+                                    Biglietteria                                </a>
+                            </h4>
+
+                                                                                </li>
+
+                                        
+                        <li>
+                            
+                            <a href="/it/tofly/servizi/oggetti-smarriti" target="_self">
+                                <img width="165" height="130" title="Carousel img 2" alt="Carousel img 2" src="/website/var/tmp/image-thumbnails/0/502/thumb__auto_083898fee32d85d35617f7c6cb953852/06_informazioni.png" srcset="/website/var/tmp/image-thumbnails/0/502/thumb__auto_083898fee32d85d35617f7c6cb953852/06_informazioni.png 1x, /website/var/tmp/image-thumbnails/0/502/thumb__auto_083898fee32d85d35617f7c6cb953852/06_informazioni@2x.png 2x" />                            </a>
+                            <h4>
+                                <a href="/it/tofly/servizi/oggetti-smarriti" target="_self">
+                                    Oggetti smarriti                                </a>
+                            </h4>
+
+                                                                                </li>
+
+                                        
+                        <li>
+                            
+                            <a href="/it/tofly/informazioni-utili-per-il-volo/passeggeri-a-ridotta-mobilita" target="_self">
+                                <img width="165" height="130" title="Carousel img 3" alt="Carousel img 3" src="/website/var/tmp/image-thumbnails/0/350/thumb__auto_537b464ea43d91ff5070b7f15446276d/04_disabili.png" srcset="/website/var/tmp/image-thumbnails/0/350/thumb__auto_537b464ea43d91ff5070b7f15446276d/04_disabili.png 1x, /website/var/tmp/image-thumbnails/0/350/thumb__auto_537b464ea43d91ff5070b7f15446276d/04_disabili@2x.png 2x" />                            </a>
+                            <h4>
+                                <a href="/it/tofly/informazioni-utili-per-il-volo/passeggeri-a-ridotta-mobilita" target="_self">
+                                    Passeggeri a ridotta mobilità                                </a>
+                            </h4>
+
+                                                                                </li>
+
+                                        
+                        <li>
+                            
+                            <a href="/it/tolive/news-e-servizi/wi-fi-in-aeroporto" target="_self">
+                                <img width="165" height="130" title="Carousel img 4" alt="Carousel img 4" src="/website/var/tmp/image-thumbnails/0/1783/thumb__auto_28b1e20381693849f7e99f86f51f10ba/icona-wifi.png" srcset="/website/var/tmp/image-thumbnails/0/1783/thumb__auto_28b1e20381693849f7e99f86f51f10ba/icona-wifi.png 1x, /website/var/tmp/image-thumbnails/0/1783/thumb__auto_28b1e20381693849f7e99f86f51f10ba/icona-wifi@2x.png 2x" />                            </a>
+                            <h4>
+                                <a href="/it/tolive/news-e-servizi/wi-fi-in-aeroporto" target="_self">
+                                    Wi-Fi                                </a>
+                            </h4>
+
+                                                                                </li>
+
+                                        
+                        <li>
+                            
+                            <a href="/it/sagat/chi-siamo/azienda/qualita" target="_blank">
+                                <img width="165" height="130" title="Carousel img 5" alt="Carousel img 5" src="/website/var/tmp/image-thumbnails/0/348/thumb__auto_0d879b23480e7cf3406b16a6f821e5d7/05_carta_diritti_passeggeri-1.png" srcset="/website/var/tmp/image-thumbnails/0/348/thumb__auto_0d879b23480e7cf3406b16a6f821e5d7/05_carta_diritti_passeggeri-1.png 1x, /website/var/tmp/image-thumbnails/0/348/thumb__auto_0d879b23480e7cf3406b16a6f821e5d7/05_carta_diritti_passeggeri-1@2x.png 2x" />                            </a>
+                            <h4>
+                                <a href="/it/sagat/chi-siamo/azienda/qualita" target="_blank">
+                                    Carta dei Servizi                                </a>
+                            </h4>
+
+                                                                                </li>
+
+                                        
+                        <li>
+                            
+                            <a href="/it/tofly/servizi/bagagli-smarriti" target="_self">
+                                <img width="165" height="130" title="Carousel img 6" alt="Carousel img 6" src="/website/var/tmp/image-thumbnails/0/349/thumb__auto_ec32e945819d91abfb3a9cff5e8bb1fd/06_bagagli_smarriti.png" srcset="/website/var/tmp/image-thumbnails/0/349/thumb__auto_ec32e945819d91abfb3a9cff5e8bb1fd/06_bagagli_smarriti.png 1x, /website/var/tmp/image-thumbnails/0/349/thumb__auto_ec32e945819d91abfb3a9cff5e8bb1fd/06_bagagli_smarriti@2x.png 2x" />                            </a>
+                            <h4>
+                                <a href="/it/tofly/servizi/bagagli-smarriti" target="_self">
+                                    Bagagli smarriti                                </a>
+                            </h4>
+
+                                                                                </li>
+
+                                        
+                        <li>
+                            
+                            <a href="/it/tolive/news-e-servizi/piemonte-lounge" target="_self">
+                                <img width="165" height="130" title="Carousel img 7" alt="Carousel img 7" src="/website/var/tmp/image-thumbnails/0/351/thumb__auto_493b5107f4e3d7521e38df14e937a684/07_piemonte_lounge-1.png" srcset="/website/var/tmp/image-thumbnails/0/351/thumb__auto_493b5107f4e3d7521e38df14e937a684/07_piemonte_lounge-1.png 1x, /website/var/tmp/image-thumbnails/0/351/thumb__auto_493b5107f4e3d7521e38df14e937a684/07_piemonte_lounge-1@2x.png 2x" />                            </a>
+                            <h4>
+                                <a href="/it/tolive/news-e-servizi/piemonte-lounge" target="_self">
+                                    Piemonte Lounge                                </a>
+                            </h4>
+
+                                                                                </li>
+
+                                        
+                        <li>
+                            
+                            <a href="/it/tofly/informazioni-utili-per-il-volo/sicurezza-aeroportuale" target="_self">
+                                <img width="165" height="130" title="Carousel img 8" alt="Carousel img 8" src="/website/var/tmp/image-thumbnails/0/382/thumb__auto_7883aa6431645077d42d7a58dd651814/sicurezza_aeroportuale_1.png" srcset="/website/var/tmp/image-thumbnails/0/382/thumb__auto_7883aa6431645077d42d7a58dd651814/sicurezza_aeroportuale_1.png 1x, /website/var/tmp/image-thumbnails/0/382/thumb__auto_7883aa6431645077d42d7a58dd651814/sicurezza_aeroportuale_1@2x.png 2x" />                            </a>
+                            <h4>
+                                <a href="/it/tofly/informazioni-utili-per-il-volo/sicurezza-aeroportuale" target="_self">
+                                    Sicurezza Aeroportuale                                </a>
+                            </h4>
+
+                                                                                </li>
+
+                    
+                </ul>
+            </div>
+            
+        
+    </div>
+</section>
+<!-- /block carousel -->
+
+<!-- block news -->
+<section class="container-fluid margin-up-down">
+    <div class="row">
+        <div class="col-sm-4">
+            <h4 class="bordered">NEWS E COMUNICATI STAMPA</h4>
+            <div class="news-other">
+                <ul>
+
+                
+                            <li>
+                                <span>28/11/2020 - COMUNICATO STAMPA</span>
+                                <a href="/comunicati/2020/cs_11_28_20_covid-test-point-a-torino-airport-aperto-a-tutti.pdf" target="_blank">
+                                    TORINO AIRPORT AL SERVIZIO DEL TERRITORIO: IL COVID TEST POINT REALIZZATO CON AIR MEDICAL ORA ACCESSIBILE A TUTTI                                </a>
+                            </li>
+
+                
+                            <li>
+                                <span>17/11/2020 - COMUNICATO STAMPA</span>
+                                <a href="/comunicati/2020/cs-17_11_20-torino-best-airport-aci-europe-awards-2020-ita.pdf" target="_blank">
+                                    TORINO AIRPORT VINCE IL PRIMO PREMIO AGLI ACI EUROPE BEST AIRPORT AWARDS 2020                                </a>
+                            </li>
+
+                
+                            <li>
+                                <span>16/11/2020 - NEWS</span>
+                                <a href="/it/sagat/area-stampa/news-e-comunicati/news/1611-chiusura-livello-partenze">
+                                    CHIUSURA PORTE LIVELLO PARTENZE                                </a>
+                            </li>
+
+                
+                </ul>
+            </div>
+        </div>
+
+
+
+        
+            <div class="border margin-up-down visible-xs"></div>
+            <div class="col-sm-4 smallest-tablet">
+                <a href="http://www.aeroportoditorino.it/it/tolive/news-e-servizi/biopharma-farmacia" target="_blank">
+                                            <img width="360" height="265" title="Banner img" class="img-responsive contrast" alt="Banner img" src="/website/var/tmp/image-thumbnails/0/1376/thumb__auto_77a1f93110c8388c6999b4d1882fab30/biopharmaairport.jpeg" srcset="/website/var/tmp/image-thumbnails/0/1376/thumb__auto_77a1f93110c8388c6999b4d1882fab30/biopharmaairport.jpeg 1x, /website/var/tmp/image-thumbnails/0/1376/thumb__auto_77a1f93110c8388c6999b4d1882fab30/biopharmaairport@2x.jpeg 2x" />                </a>
+            </div>
+
+            <div class="border margin-up-down visible-xs"></div>
+
+            <div class="col-sm-4 smallest-tablet">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <a href="http://www.inpiemonteintorino.it/web/" target="_blank">
+                                                        <img width="358" height="122" title="Banner img" class="img-responsive contrast" alt="Banner img" src="/website/var/tmp/image-thumbnails/0/833/thumb__auto_2cedec39f87e41aa19b360b44501c9b4/banner-358x122-ita.jpeg" srcset="/website/var/tmp/image-thumbnails/0/833/thumb__auto_2cedec39f87e41aa19b360b44501c9b4/banner-358x122-ita.jpeg 1x, /website/var/tmp/image-thumbnails/0/833/thumb__auto_2cedec39f87e41aa19b360b44501c9b4/banner-358x122-ita@2x.jpeg 2x" />                        </a>
+                        <br />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <a href="https://www.torinocitylab.it/it/" target="_blank">
+                                                        <img src="/home/165x120.jpg" title="Banner img" class="img-responsive contrast" alt="" />                        </a>
+                    </div>
+                    <div class="col-xs-6">
+                        <a href="/it/tomove/turismo/prenota-camera" target="_blank">
+                                                        <img src="/home/banner/banner_1_ita_button.jpg" title="Banner img" class="img-responsive contrast" alt="" />                        </a>
+                    </div>
+                </div>
+            </div>
+
+        
+
+    </div>
+</section>
+<!-- /block news -->
+
+<!--// page content ================================================================================================ -->
+
+
+<!--// footer -->
+
+<!-- block breadcrumb -->
+<div id="breadcrumb">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-9 col-sm-10">
+
+                
+                        
+                                                    <span class="no-link">
+                                Homepage                            </span>
+                        
+                    
+            </div>
+
+            <div id="top" class="col-xs-3 col-sm-2">
+                <a href="body" class="scrollAnchor">TOP <i class="fa fa-arrow-up"></i></a>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- /block breadcrumb -->
+
+
+<!-- footer -->
+
+<footer>
+    <div id="servizi" class="hidden-xs ">
+        <div class="container-fluid">
+            <div class="row">
+
+                
+                    <div
+                                                    id="to-fly"
+                                                class="col-xs-4"
+                    >
+                        <h4>TO FLY</h4>
+
+                        
+                                                           <div class="row"> <!-- open iSub -->
+                            
+                            <div class="col-xs-6">
+                                <h5>Voli</h5>
+                                <ul>
+
+                                                                            <li>
+                                            <a href="/it/tofly/voli/meteo">
+                                                Meteo                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tofly/voli/orario-generale">
+                                                Orario generale                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tofly/voli/partenze-arrivi">
+                                                Partenze/Arrivi                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tofly/voli/mappa-destinazioni">
+                                                Mappa destinazioni                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tofly/voli/compagnie-aeree">
+                                                Compagnie aeree                                            </a>
+                                        </li>
+                                        
+                                </ul>
+                            </div>
+
+                            
+                        
+                            
+                            <div class="col-xs-6">
+                                <h5>Informazioni utili per il volo</h5>
+                                <ul>
+
+                                                                            <li>
+                                            <a href="/it/tofly/informazioni-utili-per-il-volo/carta-diritti-passeggero">
+                                                Carta diritti passeggero                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tofly/informazioni-utili-per-il-volo/informazioni-bagagli">
+                                                Informazioni bagagli                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tofly/informazioni-utili-per-il-volo/informazioni-animali-volo">
+                                                Informazioni animali volo                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tofly/informazioni-utili-per-il-volo/sicurezza-aeroportuale">
+                                                Sicurezza aeroportuale                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tofly/informazioni-utili-per-il-volo/sanita-aerea">
+                                                Sanità aerea                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tofly/informazioni-utili-per-il-volo/passeggeri-a-ridotta-mobilita">
+                                                Passeggeri a ridotta mobilità                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/autismo">
+                                                Autismo                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tofly/informazioni-utili-per-il-volo/qualita">
+                                                Qualità                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tofly/informazioni-utili-per-il-volo/rumore-aeroportuale">
+                                                Rumore Aeroportuale                                            </a>
+                                        </li>
+                                        
+                                </ul>
+                            </div>
+
+                                                            </div> <!-- close iSub -->
+                                <br>
+                            
+                        
+                                                           <div class="row"> <!-- open iSub -->
+                            
+                            <div class="col-xs-6">
+                                <h5>Servizi</h5>
+                                <ul>
+
+                                                                            <li>
+                                            <a href="/it/tofly/servizi/bagagli-smarriti">
+                                                Bagagli smarriti                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tofly/servizi/oggetti-smarriti">
+                                                Oggetti smarriti                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tofly/servizi/biglietteria-aerea-e-servizi-aggiuntivi">
+                                                Biglietteria aerea e servizi aggiuntivi                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tofly/servizi/servizi-executive">
+                                                Servizi executive                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tofly/servizi/faq">
+                                                FAQ                                            </a>
+                                        </li>
+                                        
+                                </ul>
+                            </div>
+
+                                                            </div> <!-- close iSub -->
+                                <br>
+                            
+                                            </div>
+                
+                    <div
+                                                    id="to-move"
+                                                class="col-xs-4"
+                    >
+                        <h4>TO MOVE</h4>
+
+                        
+                                                           <div class="row"> <!-- open iSub -->
+                            
+                            <div class="col-xs-6">
+                                <h5>Trasporti e parcheggi</h5>
+                                <ul>
+
+                                                                            <li>
+                                            <a href="/it/tomove/trasporti-e-parcheggi/in-auto">
+                                                In auto                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tomove/trasporti-e-parcheggi/in-taxi">
+                                                In taxi                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tomove/trasporti-e-parcheggi/parcheggi">
+                                                Parcheggiare in Aeroporto                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tomove/trasporti-e-parcheggi/richiesta-fattura-parcheggi">
+                                                Richiesta fattura parcheggi                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tomove/trasporti-e-parcheggi/in-treno">
+                                                In treno                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tomove/trasporti-e-parcheggi/in-bus">
+                                                In bus                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tomove/trasporti-e-parcheggi/in-bus-ecotour">
+                                                Eco-city-tour                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tomove/trasporti-e-parcheggi/accessibilita">
+                                                Accessibilità                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tomove/trasporti-e-parcheggi/autonoleggi">
+                                                Autonoleggi                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tomove/trasporti-e-parcheggi/car-sharing">
+                                                Car sharing                                            </a>
+                                        </li>
+                                        
+                                </ul>
+                            </div>
+
+                            
+                        
+                            
+                            <div class="col-xs-6">
+                                <h5>Turismo</h5>
+                                <ul>
+
+                                                                            <li>
+                                            <a href="/it/tomove/turismo/prenota-camera">
+                                                Prenota camera                                            </a>
+                                        </li>
+                                        
+                                </ul>
+                            </div>
+
+                                                            </div> <!-- close iSub -->
+                                <br>
+                            
+                                            </div>
+                
+                    <div
+                                                    id="to-live"
+                                                class="col-xs-4"
+                    >
+                        <h4>TO LIVE</h4>
+
+                        
+                                                           <div class="row"> <!-- open iSub -->
+                            
+                            <div class="col-xs-6">
+                                <h5>News e Servizi</h5>
+                                <ul>
+
+                                                                            <li>
+                                            <a href="/it/tolive/news-e-servizi/torino-airport-pass">
+                                                Torino Airport Pass                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tolive/news-e-servizi/fast-track">
+                                                Fast Track                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tolive/news-e-servizi/piemonte-lounge">
+                                                Piemonte Lounge                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tolive/news-e-servizi/baby-lounge">
+                                                Baby Lounge                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tolive/news-e-servizi/bookcrossing">
+                                                BookCrossing in Aeroporto                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tolive/news-e-servizi/app-torino-airport">
+                                                Torino Airport App                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tolive/news-e-servizi/cus-torino">
+                                                Postazione CUS Torino per il benessere in volo                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tolive/news-e-servizi/sale-culto">
+                                                Sale di Culto                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tolive/news-e-servizi/biopharma-farmacia">
+                                                Biopharma-farmacia                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tolive/news-e-servizi/crai">
+                                                Crai in Aeroporto                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tolive/news-e-servizi/sala-fumatori">
+                                                Wi-fi in Aeroporto                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tolive/news-e-servizi/wi-fi-in-aeroporto">
+                                                Sala fumatori                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tolive/news-e-servizi/informativa-coronavirus">
+                                                Informativa Coronavirus                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tolive/news-e-servizi/covid-test-point">
+                                                Covid Test Point                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tolive/news-e-servizi/emergenza-coronavirus-faq">
+                                                Emergenza Coronavirus FAQ                                            </a>
+                                        </li>
+                                        
+                                </ul>
+                            </div>
+
+                            
+                        
+                            
+                            <div class="col-xs-6">
+                                <h5>Mappa e Negozi</h5>
+                                <ul>
+
+                                                                            <li>
+                                            <a href="/it/tolive/mappa-e-negozi/ristoranti-e-bar">
+                                                Ristoranti e bar                                            </a>
+                                        </li>
+                                                                                <li>
+                                            <a href="/it/tolive/mappa-e-negozi/negozi-e-servizi">
+                                                Negozi e servizi                                            </a>
+                                        </li>
+                                        
+                                </ul>
+                            </div>
+
+                                                            </div> <!-- close iSub -->
+                                <br>
+                            
+                                            </div>
+                            </div>
+        </div>
+    </div>
+
+    <div id="company" class="hidden-xs">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-6 col-sm-3">
+                    <figure>
+
+                        
+                            <a href="/it/sagat" target="_self">
+                                <img src="/footer/aeroporto/logo-sagat-head.png" alt="">
+                            </a>
+
+                        
+                    </figure>
+                    <div class="info">
+                        <h5>Sagat</h5>
+
+                        
+                                                            <a href="/it/sagat" >Vai alla sezione corporate</a>                            
+                        
+                    </div>
+                </div>
+
+                <div class="col-xs-6 col-sm-6 col-sm-offset-1">
+                    <h5>&nbsp;</h5>
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <ul>
+                                <li><a href="#"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="sagat-area" class="visible-xs">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-11">
+                    <a href="/it/sagat" target="_self" >
+                        <img src="/footer/aeroporto/logo-sagat-head.png" alt="">
+                        <span>Sagat</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- icone social a data da destinarsi
+    <div id="social-bottom" class="visible-xs">
+        <ul id="social">
+            
+                <li class="instagram">
+                    <a href="" target="_blank">
+                        <i class="fa fa-instagram"></i>
+                    </a>
+                </li>
+                <li class="facebook">
+                    <a href="" target="_blank">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                </li>
+                <li class="twitter">
+                    <a href="" target="_blank">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                </li>
+
+                    </ul>
+    </div>
+    -->
+
+    <div id="copy">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div>
+                        <!-- © Copyright 2015 SAGAT S.p.A. P. IVA 00505180018 -->
+                        © Copyright 2019 - SOCIETÀ AZIONARIA GESTIONE AEROPORTO DI TORINO S.P.A. - SAGAT S.p.A. - STRADA SAN MAURIZIO 12 - 10072 CASELLE TORINESE (TORINO), ITALIA - CAPITALE SOCIALE I.V. € 12.911.481,00 - R.E.A. N. 270127 REGISTRO DELLE IMPRESE DI TORINO - P. IVA/C.F. 00505180018, Società soggetta alla direzione e coordinamento di 2i Aeroporti S.p.A. ai sensi dell'art. 2497 bis c.c.
+                    </div>
+                    <br />
+                    <div class="text-center">
+
+                        
+                                                                
+                                                                            |
+                                                                                                    <a href="/it/note-legali" >Note legali</a>
+                                                                            |
+                                                                                                    <a href="/it/sagat/business-partners/opportunita-commerciali/gare-e-appalti" title="Gare e appalti">Gare e appalti</a>
+                                                                            |
+                                                                                                    <a href="/it/sagat/chi-siamo/azienda/contatti" >Contatti</a>
+                                                                            |
+                                                                                                    <a href="http://www.aeroportoditorino.it/it/sagat/chi-siamo/azienda/amministrazione-trasparente" target="_blank" title="Amministrazione trasparente">Amministrazione trasparente</a>
+                                                                            |
+                                                                                                    <a href="/it/sagat/business-partners/aviation/sistema-ppr" title="PPR">PPR</a>
+                                                                            |
+                                                                                                    <a href="http://www.aeroportoditorino.it/it/tofly/informazioni-utili-per-il-volo/persone-a-ridotta-mobilita" target="_blank" title="PRM">PRM</a>
+                                                                            |
+                                                                                                    <a href="/it/sagat/chi-siamo/ambiente/rumore-aereoportuale" title="Rumore">Rumore</a>
+                                                                            |
+                                                                                                    <a href="https://twitter.com/torinoairport" target="_blank" title="Twitter">Twitter</a>
+                                                                            |
+                                                                                                    <a href="/it/cookie" >Cookie Policy</a>
+                                                                
+                        
+                        <!--
+                        <a href="#">Tuv</a>  |  <a href="#">Note legali</a>  |  <a href="#">Mappa del sito</a>  |  <a href="#">Pubblicità</a>  |  <a href="#">Gare e appalti</a>  |  <a href="#">Lavora con noi</a>  |  <a href="#">Contatti</a>  |  <a href="#">Assistenze Speciali</a>  |  <a href="#">Crediti</a>
+                        -->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- /footer -->
+
+
+<!-- overlay -->
+<div id="overlay"></div>
+<!-- /overlay -->
+
+<script type="text/javascript" src="/assets/js/plugins.js"></script>
+
+<!-- parking form integration -->
+  <script src="/assets/js/lib/jquery-ui-1.11.4.custom/jquery-ui.min.js" type="text/javascript"></script>
+  <script src="/assets/js/lib/jquery-ui-1.11.4.custom/jquery-ui-timepicker-addon.js" type="text/javascript"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js" type="text/javascript"></script>
+<!-- parking form integration -->
+
+<script type="text/javascript" src="/assets/js/lib/bootstrap.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+<script type="text/javascript" src="/assets/js/scripts.js"></script>
+<!--[if lt IE 9]>
+<script src="/assets/js/lib/html5shiv.js"></script>
+<![endif]-->
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="/assets/js/lib/respond.min.js"></script>
+<![endif]-->
+
+
+
+<!-- header.php/find.php search -->
+<script type="text/javascript" src="/plugins/SearchPhp/static/js/frontend/jquery.autocomplete1.11.3.js"></script>
+<!--// footer -->
+
+
+<!-- Modal emergency -->
+<div class="modal fade" id="emergency" tabindex="-1" role="dialog"
+     aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
+            </div>
+            <div class="modal-body text-center">
+                <img src="/assets/img/shared/emergency-modal.png" alt="">
+
+                
+                    <h3 class="uppercase"></h3>
+                    <h4 style="text-align: justify;"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Informiamo i passeggeri in partenza che, a seguito delle restrizioni imposte agli spostamenti da e per il Piemonte ai sensi dell’art.3 del DPCM del 03/11/202 e dell’ordinanza del Ministero della Salute del 04/11/2020 e la conseguente riduzione del numero di voli, a partire da martedì 17 novembre le porte di accesso/uscita al livello partenze rimarranno chiuse. Invitiamo pertanto i passeggeri ad utilizzare esclusivamente gli accessi del lato arrivi.</span></span></h4>
+
+<h4 style="text-align: justify;"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Informiamo che, a seguito dell’entrata in vigore del DPCM 03 novembre 2020 e del Decreto del Ministero della Salute del 04 Novembre 2020, a partire dal 06/11/2020 <strong>tutti i passeggeri in partenza</strong> devono, prima di accedere ai controlli di sicurezza, consegnare agli agenti della Polizia di Stato il <strong>Modulo di autodichiarazione precompilato sul motivo legittimo del viaggio </strong>(scaricabile <a href="https://www.interno.gov.it/sites/default/files/2020-10/modello_autodichiarazione_editabile_ottobre_2020.pdf" target="_blank">qui</a>) e devono consegnare al vettore, al momento dell’imbarco, l’<strong>autodichiarazione COVID-19</strong> (scaricabile <a href="https://www.aeroportoditorino.it/to-live/documenti-covid/autodichiarazione-covid-19_pax-partenza_23jun20.pdf" target="_blank">qui</a>).</span></span></h4>
+
+<h4 style="text-align: justify;"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Tutti i passeggeri <strong>in arrivo da Paesi Schengen e Extra-Schengen</strong> devono consegnare agli agenti di Polizia di Stato il <strong>Modulo di autodichiarazione precompilato sul motivo legittimo del viaggio (scaricabile <a href="https://www.interno.gov.it/sites/default/files/2020-10/modello_autodichiarazione_editabile_ottobre_2020.pdf" target="_blank">qui</a>).</strong></span></span></h4>
+
+<h4 style="text-align: justify;"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">I passeggeri in arrivo provenienti da altri aeroporti italiani non devono consegnare alcun modulo.</span></span></h4>
+
+<h4 style="text-align: justify;"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Informiamo i passeggeri provenienti con VOLI DIRETTI da Amsterdam, Londra che è obbligatorio effettuare il test anti Covid-19 al rientro in Italia.</span></span></h4>
+
+<h4 style="text-align: justify;"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Si ricorda che è obbligatorio&nbsp;mettersi in contatto con la propria azienda sanitaria locale di riferimento, presentando un test con esito negativo effettuato per mezzo di tampone nelle&nbsp;72 ore antecedenti l'ingresso in Italia, oppure sottoporsi al tampone entro le&nbsp;48 ore successive all'arrivo in Italia.&nbsp;</span></span></h4>
+
+                    <h3 class="uppercase"></h3>
+                    <h4 style="text-align: justify;"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">We inform departing passengers that, following the restrictions imposed on travel to and from Piedmont pursuant to Article 3 of the Prime Minister's Decree of 03/11/202 and the ordinance of the Ministry of Health of consequent reduction in the number of flights, starting from Tuesday 17 November the access / exit doors at the departures level will remain closed. We therefore invite passengers to use only the entrances on the arrivals side.</span></span></h4>
+
+<h4 style="text-align: justify;"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">We inform you that, following the entry into force of the Prime Ministerial Decree of 03 November 2020 and the Decree of the Italian Ministry of Health of 04 November 2020, starting from 06/11/2020 all departing passengers must, before accessing the security checks, deliver to the State Police agents the pre-filled self-declaration form on the legitimate reason for the trip (download<a href="https://www.interno.gov.it/sites/default/files/2020-10/modello_autodichiarazione_editabile_ottobre_2020.pdf" style="font-family: arial, helvetica, sans-serif; font-size: 12px;" target="_blank"><span style="color:#000000;"> here</span></a>) and they must deliver to the carrier, upon boarding, the COVID-19 self-declaration (download <a href="https://www.torinoairport.com/to-live/documenti-covid/self_declaration_form_covid-19_departing-pax_23jun20.pdf" style="font-family: arial, helvetica, sans-serif; font-size: 12px;" target="_blank"><span style="color:#000000;">here</span></a>).</span></span></h4>
+
+<h4 style="text-align: justify;"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">All passengers arriving from Schengen and Extra-Schengen countries must deliver the pre-filled self-declaration form on the legitimate reason for the trip to the State Police officers (download <a href="https://www.interno.gov.it/sites/default/files/2020-10/modello_autodichiarazione_editabile_ottobre_2020.pdf" style="font-family: arial, helvetica, sans-serif; font-size: 12px;" target="_blank"><span style="color:#000000;">here</span></a>).</span></span></h4>
+
+<h4 style="text-align: justify;"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Passengers arriving from other Italian airports do not have to hand in any forms.</span></span></h4>
+
+<h4 style="text-align: justify;"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">We inform passengers arriving with DIRECT FLIGHTS from Amsterdam, London and Paris that it is mandatory to carry out the anti Covid-19 test upon returning to Italy.</span></span></h4>
+
+<h4 style="text-align: justify;"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><strong style="font-family: arial, helvetica, sans-serif; font-size: 12px;">Please note that it is mandatory to contact your local health company of reference, presenting a test with negative result carried out by means of a swab in the 72 hours prior to entering Italy or to undergo the swab within 48 hours after arrival in Italy.</strong></span></span></h4>
+
+                
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /Modal emergency -->
+<!-- accept cookie -->
+<div class="cookie" style="z-index:2147483640">
+    <div class="container-fluid">
+        <div class="row">
+
+            
+                <div class="col-sm-10">
+                    <p>Utilizziamo i cookie per assicurarti la migliore esperienza nel nostro sito. Questo sito utilizza i cookie, anche di terze parti, per inviarti messaggi promozionali personalizzati. Per saperne di più, conoscere i cookie utilizzati dal sito ed eventualmente disabilitarli, accedi alla <a href="/it/cookie" style="outline: none; text-decoration: none;">Cookie Policy</a>. Se prosegui nella navigazione di questo sito acconsenti all’utilizzo dei cookie.</p>
+                    <!--
+                    <p>Utilizziamo i cookie per assicurarti la migliore esperienza nel nostro sito. Questo sito utilizza
+                        i cookie, anche di terze parti, per inviarti messaggi promozionali personalizzati. Per saperne
+                        di più, conoscere i cookie utilizzati dal sito ed eventualmente disabilitarli, accedi alla
+                        Cookie Policy. Se prosegui nella navigazione di questo sito acconsenti all’utilizzo dei
+                        cookie.</p> -->
+                </div>
+                <div class="col-sm-2">
+                    <a href="#" class="accetta rounded-medium">
+                        ACCETTA                        <!-- ACCETTA -->
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                </div>
+
+            
+        </div>
+    </div>
+</div>
+<!-- /accept cookie -->
+
+<!-- lucapulira@applixgroup.com contatti add more -->
+<script>
+    /*
+    (function ($) {
+        $(document).ready(function() {
+            var formContattiAttachementCount = 1;
+            $('.form_contatti_allegati_add .upload-wrap .browse-wrap').click(function(e) {
+                e.preventDefault();
+                formContattiAttachementCount += 1;
+                for(var i = 1; i <= formContattiAttachementCount; i++) {
+                    $('#group_attachment_' + i).css('display', 'block');
+                }
+
+                if(formContattiAttachementCount >= 5) {
+                    $(this).css('display', 'none');
+                }
+            });
+        });
+    })(jQuery);
+*/
+</script>
+<!-- end -->
+</body>
+</html>
